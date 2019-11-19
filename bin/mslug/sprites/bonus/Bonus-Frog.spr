@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="16,42" count="18" image="Bonus-Frog.png" name="" version="1.0">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<AttachedRectangle name="Bounds" rectangle="7,24,20,18" />
+	</Sprite>
+</SpriteSheet>
+

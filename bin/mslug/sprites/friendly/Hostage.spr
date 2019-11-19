@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite name="Bonus" image="Hostage-Bonus.png" count="11" anchor="35,38" indexes=""></Sprite>
+	<Sprite name="Fleeing" image="Hostage-Fleeing.png" count="8" anchor="23,41" indexes=""></Sprite>
+	<Sprite name="Salute" image="Hostage-Salute.png" count="14" anchor="22,40" indexes=""></Sprite>
+	<Sprite name="Walking" image="Hostage-Walking.png" count="12" anchor="12,40" indexes=""></Sprite>
+	
+	<Sprite name="Untying" image="Hostage-Untying.png" count="5" anchor="21,35" indexes=""></Sprite>
+	<Sprite name="Captured" image="Hostage-Captured.png" count="4" anchor="18,27" indexes="0,1,2,3,3,2,2,1"></Sprite>
+</SpriteSheet>

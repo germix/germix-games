@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="52" height="252" tilewidth="1" tileheight="1">
+ <properties>
+  <property name="model" value="battleship.support.3"/>
+ </properties>
+ <objectgroup name="Cannons" width="52" height="252">
+  <object type="16x16.7" x="9" y="200" width="16" height="16"/>
+  <object type="16x16.7" x="9" y="170" width="16" height="16"/>
+  <object type="16x16.7" x="9" y="144" width="16" height="16"/>
+  <object type="16x16.7" x="9" y="27" width="16" height="16"/>
+  <object type="16x16.7" x="10" y="17" width="16" height="16"/>
+  <object type="16x16.3" x="18" y="56" width="16" height="16"/>
+  <object type="16x16.3" x="-2" y="56" width="16" height="16"/>
+  <object type="16x16.3" x="18" y="80" width="16" height="16"/>
+  <object type="16x16.3" x="-2" y="80" width="16" height="16"/>
+  <object type="16x16.3" x="18" y="107" width="16" height="16"/>
+  <object type="16x16.3" x="-2" y="107" width="16" height="16"/>
+ </objectgroup>
+</map>

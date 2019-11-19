@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_Flower
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Bonus_Flower_h___
+#define ___Bonus_Flower_h___
+#include <src/entities/Bonus.h>
+
+class Bonus_Flower : public Bonus
+{
+public:
+	Bonus_Flower(Scene* s, double x, double y);
+	~Bonus_Flower();
+public:
+	void activated(Hero* h);
+};
+
+#endif

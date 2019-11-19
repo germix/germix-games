@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_ExtraLife
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Bonus_ExtraLife_h___
+#define ___Bonus_ExtraLife_h___
+#include <src/entities/Bonus.h>
+
+class Bonus_ExtraLife : public Bonus
+{
+public:
+	Bonus_ExtraLife(Scene* s, double x, double y);
+	~Bonus_ExtraLife();
+public:
+	void activated(Hero* h);
+};
+
+#endif

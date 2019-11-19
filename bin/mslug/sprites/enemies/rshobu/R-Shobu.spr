@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="36,4" count="7" image="R-Shobu (Body).png" name="Body" version="1.0" >
+		<AttachedRectangle name="hit1" rectangle="2,8,70,40" />
+		<AttachedRectangle name="hit2" rectangle="72,8,8,24" />
+<!--	<AttachedRectangle name="hit" rectangle="8,8,64,40" /> -->
+	</Sprite>
+	<Sprite anchor="40,9" count="5" image="R-Shobu (Blades-1).png" name="Blades1" version="1.0" />
+	<Sprite anchor="40,9" count="5" image="R-Shobu (Blades-2).png" name="Blades2" version="1.0" />
+	<Sprite anchor="40,9" count="5" image="R-Shobu (Blades-3).png" name="Blades3" version="1.0" />
+	<Sprite anchor="40,9" count="5" image="R-Shobu (Blades-4).png" name="Blades4" version="1.0" />
+	<Sprite anchor="40,9" count="5" image="R-Shobu (Blades-5).png" name="Blades5" version="1.0" />
+	<Sprite anchor="40,9" count="5" image="R-Shobu (Blades-6).png" name="Blades6" version="1.0" />
+	<Sprite anchor="40,9" count="5" image="R-Shobu (Blades-7).png" name="Blades7" version="1.0" />
+</SpriteSheet>

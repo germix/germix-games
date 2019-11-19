@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite image="Bonus-Fungus.png" name="" version="1.1">
+	<FrameList frames="12">
+		<Frame anchor="15,23" rectangle="0,0,25,23"/>
+		<Frame anchor="15,23" rectangle="25,0,25,23"/>
+		<Frame anchor="15,23" rectangle="0,23,25,23"/>
+		<Frame anchor="15,23" rectangle="25,23,25,23"/>
+		<Frame anchor="15,23" rectangle="50,0,25,23"/>
+		<Frame anchor="15,23" rectangle="50,23,25,23"/>
+		<Frame anchor="15,23" rectangle="75,0,25,23"/>
+		<Frame anchor="15,23" rectangle="75,23,25,23"/>
+		<Frame anchor="15,23" rectangle="0,46,25,23"/>
+		<Frame anchor="15,23" rectangle="25,46,25,23"/>
+		<Frame anchor="15,23" rectangle="50,46,25,23"/>
+		<Frame anchor="15,23" rectangle="75,46,25,23"/>
+	</FrameList>
+</Sprite>

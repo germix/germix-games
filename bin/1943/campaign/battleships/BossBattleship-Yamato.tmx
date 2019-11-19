@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="123" height="523" tilewidth="1" tileheight="1">
+ <properties>
+  <property name="model" value="battleship.boss.yamato"/>
+ </properties>
+ <objectgroup name="Cannons" width="123" height="523">
+  <object type="16x16.1" x="72" y="451" width="16" height="16"/>
+  <object type="16x16.1" x="79" y="442" width="16" height="16"/>
+  <object type="16x16.1" x="8" y="451" width="16" height="16"/>
+  <object type="16x16.1" x="1" y="442" width="16" height="16"/>
+  <object type="16x16.1" x="70" y="343" width="16" height="16"/>
+  <object type="16x16.1" x="10" y="342" width="16" height="16"/>
+  <object type="16x16.1" x="56" y="323" width="16" height="16"/>
+  <object type="16x16.1" x="24" y="322" width="16" height="16"/>
+  <object type="16x16.1" x="6" y="310" width="16" height="16"/>
+  <object type="16x16.1" x="75" y="311" width="16" height="16"/>
+  <object type="16x16.5" x="-3" y="302" width="16" height="16"/>
+  <object type="16x16.5" x="-2" y="288" width="16" height="16"/>
+  <object type="16x16.5" x="-3" y="274" width="16" height="16"/>
+  <object type="16x16.5" x="-3" y="259" width="16" height="16"/>
+  <object type="16x16.5" x="83" y="304" width="16" height="16"/>
+  <object type="16x16.5" x="83" y="288" width="16" height="16"/>
+  <object type="16x16.5" x="83" y="275" width="16" height="16"/>
+  <object type="16x16.5" x="83" y="260" width="16" height="16"/>
+  <object type="16x16.1" x="10" y="246" width="16" height="16"/>
+  <object type="16x16.1" x="70" y="247" width="16" height="16"/>
+  <object type="32x32.4" x="7" y="294" width="32" height="32"/>
+  <object type="32x32.4" x="7" y="274" width="32" height="32"/>
+  <object type="32x32.4" x="7" y="255" width="32" height="32"/>
+  <object type="32x32.4" x="59" y="296" width="32" height="32"/>
+  <object type="32x32.4" x="60" y="275" width="32" height="32"/>
+  <object type="32x32.4" x="59" y="255" width="32" height="32"/>
+  <object type="32x32.5" x="34" y="336" width="32" height="32"/>
+  <object type="32x32.5" x="33" y="212" width="32" height="32"/>
+  <object type="tank" x="33" y="178" width="32" height="32"/>
+  <object type="tank" x="32" y="121" width="32" height="32"/>
+  <object type="tank" x="32" y="378" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Towers" width="123" height="523">
+  <object type="tower.5" x="32" y="241" width="32" height="32"/>
+ </objectgroup>
+</map>

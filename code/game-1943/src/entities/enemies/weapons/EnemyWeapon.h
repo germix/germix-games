@@ -1,0 +1,23 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// EnemyWeapon
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___EnemyWeapon_h___
+#define ___EnemyWeapon_h___
+
+class Scene;
+class Vector2f;
+
+class EnemyWeapon
+{
+public:
+	EnemyWeapon() {}
+	virtual ~EnemyWeapon() {}
+public:
+	virtual void shoot(Scene* scene, const Vector2f& p, double velocity) = 0;
+};
+
+#endif

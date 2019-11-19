@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="32,32" frames="15" image="M-15A Bradley-ShootingFire2.png" name="" version="1.0">
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+</Sprite>

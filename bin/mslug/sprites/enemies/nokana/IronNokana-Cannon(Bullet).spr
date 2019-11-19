@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="5,5" frames="15" image="IronNokana-Cannon(Bullet).png" name="" version="1.0">
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+</Sprite>

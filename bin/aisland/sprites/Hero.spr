@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.2" image="Hero.png">
+    <ImageList>
+        <Image anchor="8,32" rectangle="0,0,16,32"/>
+        <Image anchor="8,32" rectangle="16,0,16,32"/>
+        <Image anchor="8,32" rectangle="32,0,16,32"/>
+        <Image anchor="8,32" rectangle="48,0,20,30"/>
+        <Image anchor="8,32" rectangle="68,0,18,32"/>
+        <Image anchor="0,0" rectangle="86,0,20,30"/>
+        <Image anchor="8,32" rectangle="106,0,20,30"/>
+        <Image anchor="13,29" rectangle="126,0,22,29"/>
+        <Image anchor="14,30" rectangle="148,0,22,30"/>
+        <Image anchor="12,32" rectangle="170,0,24,32"/>
+        <Image anchor="12,32" rectangle="194,0,24,32"/>
+        <Image anchor="12,32" rectangle="218,0,23,32"/>
+        <Image anchor="12,32" rectangle="241,0,23,32"/>
+        <Image anchor="12,24" rectangle="264,0,22,24"/>
+        <Image anchor="10,24" rectangle="286,0,22,24"/>
+        <Image anchor="14,29" rectangle="308,0,28,29"/>
+        <Image anchor="12,32" rectangle="336,0,24,32"/>
+        <Image anchor="22,61" rectangle="360,0,48,70"/>
+    </ImageList>
+    <SpriteList>
+        <Sprite name="Idle" indexes="0,1"/>
+        <Sprite name="Walk" indexes="2,3,2,4"/>
+        <Sprite name="Jump" indexes="6"/>
+        <Sprite name="Attack" indexes="7"/>
+        <Sprite name="Stumble" indexes="8"/>
+        <Sprite name="Skate-Run" indexes="9,10"/>
+        <Sprite name="Skate-Jump" indexes="16"/>
+        <Sprite name="Skate-Brake" indexes="11,12"/>
+        <Sprite name="Dead" indexes="13,14"/>
+        <Sprite name="Dead-Fire" indexes="15"/>
+        <Sprite name="Dead-Freeze" indexes="17"/>
+    </SpriteList>
+</SpriteSheet>

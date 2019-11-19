@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="0,0" count="64" image="IronNokanaRocket (Flying).png" name="Flying">
+		<Frame anchor="53,11"/>
+		<Frame anchor="53,11"/>
+		<Frame anchor="53,17"/>
+		<Frame anchor="53,17"/>
+		<Frame anchor="53,23"/>
+		<Frame anchor="53,23"/>
+		<Frame anchor="39,29"/>
+		<Frame anchor="39,29"/>
+		<Frame anchor="40,33"/>
+		<Frame anchor="40,33"/>
+		<Frame anchor="28,40"/>
+		<Frame anchor="28,40"/>
+		<Frame anchor="27,43"/>
+		<Frame anchor="27,43"/>
+		<Frame anchor="16,44"/>
+		<Frame anchor="16,44"/>
+		<Frame anchor="11,44"/>
+		<Frame anchor="11,44"/>
+		<Frame anchor="6,44"/>
+		<Frame anchor="6,44"/>
+		<Frame anchor="5,43"/>
+		<Frame anchor="5,43"/>
+		<Frame anchor="4,40"/>
+		<Frame anchor="4,40"/>
+		<Frame anchor="5,33"/>
+		<Frame anchor="5,33"/>
+		<Frame anchor="5,29"/>
+		<Frame anchor="5,29"/>
+		<Frame anchor="4,23"/>
+		<Frame anchor="4,23"/>
+		<Frame anchor="4,17"/>
+		<Frame anchor="4,17"/>
+		<Frame anchor="4,11"/>
+		<Frame anchor="4,11"/>
+		<Frame anchor="4,4"/>
+		<Frame anchor="4,4"/>
+		<Frame anchor="4,3"/>
+		<Frame anchor="4,3"/>
+		<Frame anchor="4,3"/>
+		<Frame anchor="4,3"/>
+		<Frame anchor="4,3"/>
+		<Frame anchor="4,3"/>
+		<Frame anchor="3,3"/>
+		<Frame anchor="3,3"/>
+		<Frame anchor="3,3"/>
+		<Frame anchor="3,3"/>
+		<Frame anchor="6,3"/>
+		<Frame anchor="6,3"/>
+		<Frame anchor="10,3"/>
+		<Frame anchor="10,3"/>
+		<Frame anchor="25,3"/>
+		<Frame anchor="25,3"/>
+		<Frame anchor="29,3"/>
+		<Frame anchor="29,3"/>
+		<Frame anchor="29,3"/>
+		<Frame anchor="29,3"/>
+		<Frame anchor="47,3"/>
+		<Frame anchor="47,3"/>
+		<Frame anchor="47,3"/>
+		<Frame anchor="47,3"/>
+		<Frame anchor="47,3"/>
+		<Frame anchor="47,3"/>
+		<Frame anchor="52,4"/>
+		<Frame anchor="52,4"/>
+	</Sprite>
+	<Sprite anchor="4,4" count="8" image="IronNokanaRocket (Starting).png" name="Starting">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+</SpriteSheet>

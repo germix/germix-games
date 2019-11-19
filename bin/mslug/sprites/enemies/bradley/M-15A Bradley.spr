@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="39,78" count="2" image="M-15A Bradley(Idle).png" name="Idle" version="1.0"/>
+	<Sprite anchor="39,78" count="7" image="M-15A Bradley(Shooting).png" name="Shooting" version="1.0">
+		<AttachedPoint name="Fire" point="78,49" />
+		<AttachedPoint name="Pipe1" point="36,6" />
+		<AttachedPoint name="Pipe2" point="29,15" />
+		<AttachedPoint name="Pipe3" point="28,8" />
+		<AttachedPoint name="Pipe4" point="21,15" />
+		<AttachedPoint name="Rocket1" point="12,-18" />
+		<AttachedPoint name="Rocket2" point="5,-9" />
+		<AttachedPoint name="Rocket3" point="4,-16" />
+		<AttachedPoint name="Rocket4" point="-3,-9" />
+	</Sprite>
+	<Sprite anchor="39,79" count="4" image="M-15A Bradley(Stopping).png" name="Stopping" version="1.0"/>
+	<Sprite anchor="39,78" count="8" image="M-15A Bradley(Walking).png" name="Walking" version="1.0"/>
+	<Sprite anchor="39,84" count="20" image="M-15A Bradley(Wrecked).png" name="Wrecked" version="1.0"/>
+</SpriteSheet>

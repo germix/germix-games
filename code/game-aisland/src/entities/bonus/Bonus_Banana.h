@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_Banana
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Bonus_Banana_h___
+#define ___Bonus_Banana_h___
+#include <src/entities/bonus/Bonus_Fruit.h>
+
+class Bonus_Banana : public Bonus_Fruit
+{
+public:
+	Bonus_Banana(Scene* s, double x, double y);
+	~Bonus_Banana();
+public:
+	void activated(Hero* h);
+};
+
+#endif

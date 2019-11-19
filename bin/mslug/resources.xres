@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Resources>
+	<!-- Sounds -->
+	<Resource type="Sound" name="Knife" file="audio/___/10FA (Knife).ogg" />
+	<Resource type="Sound" name="Bonus.Ok" file="audio/___/1124 (Bonus-Ok).ogg" />
+	<Resource type="Sound" name="ThankYou" file="audio/___/113A (Thank you).ogg" />
+	<Resource type="Sound" name="Bonus.Weapon.H" file="audio/___/112D (Bonus-Weapon-H).ogg" />
+	<Resource type="Sound" name="Bonus.Weapon.R" file="audio/___/112E (Bonus-Weapon-R).ogg" />
+	<Resource type="Sound" name="Bonus.Weapon.S" file="audio/___/112F (Bonus-Weapon-S).ogg" />
+	<Resource type="Sound" name="Bonus.Weapon.F" file="audio/___/112C (Bonus-Weapon-F).ogg" />
+	<Resource type="Sound" name="Shoot.Weapon.H" file="audio/___/10F4 (Shoot-Weapon-H).ogg" />
+	<Resource type="Sound" name="Shoot.Weapon.R" file="audio/___/10F5 (Shoot-Weapon-R).ogg" />
+	<Resource type="Sound" name="Shoot.Weapon.S" file="audio/___/10F6 (Shoot-Weapon-S).ogg" />
+	<Resource type="Sound" name="Shoot.Weapon.P" file="audio/___/108C (Shoot-Weapon-P).ogg" />
+	<Resource type="Sound" name="MissionCompleted" file="audio/___/1137 (Mission Completed).ogg" />
+	<Resource type="Sound" name="GrenadeExplosion" file="audio/GrenadeExplosion.ogg" />
+	<Resource type="Sound" name="GrenadeExplosionBig" file="audio/GrenadeExplosion(Big).ogg" />
+	
+	<Resource type="Texture" name="Pause" file="screens/playing/Pause.png" />
+	
+	<!-- Hud -->
+	<Resource type="Texture" name="Hud.1" file="hud/Hud-1.png" />
+	<Resource type="Texture" name="Hud.2" file="hud/Hud-2.png" />
+	<Resource type="Texture" name="Hud.Indicator.Heart" file="hud/Hud-Indicator-Heart.png" />
+	<Resource type="Texture" name="Hud.Indicator.Hostage" file="hud/Hud-Indicator-Hostage.png" />
+	
+	<!-- Projectiles -->
+	<Resource type="SpriteSheet" name="Bullet.H" file="sprites/bullets/Bullet(H).spr" />
+	<Resource type="SpriteSheet" name="Bullet.P" file="sprites/bullets/Bullet(P).spr" />
+	<Resource type="SpriteSheet" name="Bullet.R" file="sprites/bullets/Bullet(R).spr" />
+	<Resource type="SpriteSheet" name="Bullet.S" file="sprites/bullets/Bullet(S).spr" />
+	<Resource type="SpriteSheet" name="StielHandGranate" file="sprites/bombs/Bomb-StielHandGranate.spr" />
+	
+	<!-- Effectos -->
+	<Resource type="SpriteSheet" name="BulletHit1" file="sprites/effects/BulletHit1.spr" />
+	<Resource type="SpriteSheet" name="BulletHit2" file="sprites/effects/BulletHit2.spr" />
+	<Resource type="SpriteSheet" name="BonusEffect" file="sprites/effects/BonusEffect.spr" />
+	<Resource type="SpriteSheet" name="GrenadeExplosion" file="sprites/effects/GrenadeExplosion.spr" />
+	<Resource type="SpriteSheet" name="GrenadeExplosionBig" file="sprites/effects/GrenadeExplosion(Big).spr" />
+	<Resource type="SpriteSheet" name="NormalExplosionB" file="sprites/effects/NormalExplosion(B).spr" />
+	<Resource type="SpriteSheet" name="NormalExplosionM" file="sprites/effects/NormalExplosion(M).spr" />
+	<Resource type="SpriteSheet" name="NormalExplosionS" file="sprites/effects/NormalExplosion(S).spr" />
+	
+	<!-- Enemigos -->
+	<Resource type="SpriteSheet" name="Soldier" file="sprites/enemies/soldier/Soldier.spr" />
+	<Resource type="SpriteSheet" name="SoldierBomb" file="sprites/enemies/soldier/SoldierBomb.spr" />
+	<Resource type="SpriteSheet" name="SoldierBombExplosion" file="sprites/enemies/soldier/SoldierBombExplosion.spr" />
+	<Resource type="SpriteSheet" name="SoldierBullet" file="sprites/enemies/soldier/SoldierBullet.spr" />
+	<Resource type="SpriteSheet" name="SoldierDeadEffect" file="sprites/enemies/soldier/SoldierDeadEffect.spr" />
+	
+	<Resource type="Sound" name="RShobu.Explode" file="audio/R-Shobu (Explode).ogg" />
+	<Resource type="SpriteSheet" name="RShobu" file="sprites/enemies/rshobu/R-Shobu.spr" />
+	<Resource type="SpriteSheet" name="RShobuBomb" file="sprites/enemies/rshobu/R-Shobu (Bomb).spr" />
+	<Resource type="SpriteSheet" name="RShobuBombSmoke" file="sprites/enemies/rshobu/R-Shobu (Bomb-Smoke).spr" />
+	
+	<Resource type="SpriteSheet" name="Bradley" file="sprites/enemies/bradley/M-15A Bradley.spr" />
+	<Resource type="SpriteSheet" name="Bradley.Rocket" file="sprites/enemies/bradley/M-15A Bradley-Rocket2.spr" />
+	<Resource type="SpriteSheet" name="Bradley.ShootingFire1" file="sprites/enemies/bradley/M-15A Bradley-ShootingFire1.spr" />
+	<Resource type="SpriteSheet" name="Bradley.ShootingFire2" file="sprites/enemies/bradley/M-15A Bradley-ShootingFire2.spr" />
+
+	<Resource type="SpriteSheet" name="Sarubia" file="sprites/enemies/sarubia/Sarubia.spr" />
+	<Resource type="SpriteSheet" name="SarubiaBomb" file="sprites/enemies/sarubia/SarubiaBomb.spr" />
+	<Resource type="SpriteSheet" name="SarubiaBombSmoke" file="sprites/enemies/sarubia/SarubiaBombSmoke.spr" />
+	
+	<Resource type="Texture" name="Mosque.Normal" file="sprites/enemies/mosque/Mosque (Normal).png" />
+	<Resource type="Texture" name="Mosque.Destroyed" file="sprites/enemies/mosque/Mosque (Destroyed).png" />
+	<Resource type="SpriteSheet" name="Mosque" file="sprites/enemies/mosque/Mosque.spr" />
+	<Resource type="SpriteSheet" name="MosqueRocket" file="sprites/enemies/mosque/MosqueRocket.spr" />
+	<Resource type="SpriteSheet" name="MosqueRocketSmoke" file="sprites/enemies/mosque/MosqueRocketSmoke.spr" />
+	<Resource type="SpriteSheet" name="MosqueTowerOperatorDead" file="sprites/enemies/mosque/MosqueTowerOperatorDead.spr" />
+	
+	<Resource type="SpriteSheet" name="Masknell" file="sprites/enemies/masknell/Masknell.spr" />
+	<Resource type="SpriteSheet" name="MasknellBlades" file="sprites/enemies/masknell/MasknellBlades.spr" />
+	<Resource type="SpriteSheet" name="MasknellBullet" file="sprites/enemies/masknell/MasknellBullet.spr" />
+	<Resource type="SpriteSheet" name="MasknellShotEffect" file="sprites/enemies/masknell/MasknellShotEffect.spr" />
+	<Resource type="SpriteSheet" name="MasknellBulletCartridge" file="sprites/enemies/masknell/MasknellBulletCartridge.spr" />
+	
+	<Resource type="SpriteSheet" name="IronNokana" file="sprites/enemies/nokana/IronNokana.spr" />
+	<Resource type="SpriteSheet" name="IronNokanaRocket" file="sprites/enemies/nokana/IronNokanaRocket.spr" />
+	<Resource type="SpriteSheet" name="IronNokanaCannonShot" file="sprites/enemies/nokana/IronNokana-Cannon(Shot).spr" />
+	<Resource type="SpriteSheet" name="IronNokanaCannonBullet" file="sprites/enemies/nokana/IronNokana-Cannon(Bullet).spr" />
+	
+	
+	<!-- Bonus -->
+	<Resource type="SpriteSheet" name="BonusBox" file="sprites/bonus/BonusBox.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Bombs" file="sprites/bonus/Bonus-Bombs.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Banana" file="sprites/bonus/Bonus-Banana.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Cat" file="sprites/bonus/Bonus-Cat.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Chicken" file="sprites/bonus/Bonus-Chicken.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Coin" file="sprites/bonus/Bonus-Coin.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Doll" file="sprites/bonus/Bonus-Doll.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Fish" file="sprites/bonus/Bonus-Fish.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Fungus" file="sprites/bonus/Bonus-Fungus.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Jewel" file="sprites/bonus/Bonus-Jewel.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Letter" file="sprites/bonus/Bonus-Letter.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Medal" file="sprites/bonus/Bonus-Medal.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Monkey" file="sprites/bonus/Bonus-Monkey.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Pig" file="sprites/bonus/Bonus-Pig.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Poop" file="sprites/bonus/Bonus-Poop.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Teddy" file="sprites/bonus/Bonus-Teddy.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Treasure" file="sprites/bonus/Bonus-Treasure.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Weapon" file="sprites/bonus/Bonus-Weapon.spr" />
+	<Resource type="SpriteSheet" name="Bonus.Frog" file="sprites/bonus/Bonus-Frog.spr" />
+	
+	<!-- Pacíficos -->
+	<Resource type="SpriteSheet" name="Hostage" file="sprites/friendly/Hostage.spr" />
+</Resources>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="10,17" frames="8" image="Bonus-Banana.png" version="1.0">
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+</Sprite>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="2,10" count="21" image="Bonus-Jewel(Blue).png" name="Blue" version="1.0"/>
+	<Sprite anchor="2,10" count="21" image="Bonus-Jewel(Red).png" name="Red" version="1.0"/>
+	<Sprite anchor="2,10" count="21" image="Bonus-Jewel(Yellow).png" name="Yellow" version="1.0"/>
+</SpriteSheet>

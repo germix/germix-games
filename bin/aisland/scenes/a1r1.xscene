@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene version="1.0" name="" definitions="entities-definitions/definitions.xml" camera="0,240,256,224">
+    <Map offsets="a1r1/a1r1-slopes.png" platform="a1r1/a1r1-terrain.png" background="a1r1/a1r1-background.png" backgroundColor="255,255,255" width="8224" height="464"/>
+    <Music music="../music/Track - 02.ogg"/>
+    <Entities>
+        <Entity class="Hero" x="72" y="400" spawnx="64"/>
+        <Entity class="Bonus_Banana" x="960" y="328" spawnx="952"/>
+        <Entity class="Bonus_Banana" x="1232" y="328" spawnx="1224"/>
+        <Entity class="Bonus_Apple" x="1472" y="376" spawnx="1465"/>
+        <Entity class="Snail" x="864" y="400" spawnx="852"/>
+        <Entity class="Snail" x="1056" y="400" spawnx="1044"/>
+        <Entity class="Snail" x="1120" y="400" spawnx="1108"/>
+        <Entity class="Rock" x="1248" y="400" spawnx="1240"/>
+        <Entity class="Rock" x="1472" y="400" spawnx="1464"/>
+        <Entity class="Egg" x="640" y="400" spawnx="629">
+            <Arguments Entity="Ax"/>
+        </Entity>
+        <Entity class="Snail" x="1600" y="400" spawnx="1588"/>
+        <Entity class="Snail" x="1816" y="400" spawnx="1804"/>
+        <Entity class="Snail" x="1888" y="400" spawnx="1876"/>
+        <Entity class="Snail" x="1952" y="400" spawnx="1940"/>
+        <Entity class="Bonus_Banana" x="1920" y="328" spawnx="1912"/>
+        <Entity class="Bonus_Apple" x="1664" y="328" spawnx="1657"/>
+        <Entity class="Bonus_Apple" x="2336" y="376" spawnx="2329"/>
+        <Entity class="Bonus_Banana" x="2400" y="328" spawnx="2392"/>
+        <Entity class="Egg" x="2496" y="400" spawnx="2485">
+            <Arguments EntityAux="Ax" Entity="Skate"/>
+        </Entity>
+        <Entity class="Bonus_Apple" x="2704" y="328" spawnx="2697"/>
+        <Entity class="Bonus_Banana" x="2720" y="328" spawnx="2712"/>
+        <Entity class="Bonus_Apple" x="2960" y="376" spawnx="2953"/>
+        <Entity class="Bonus_Banana" x="3040" y="328" spawnx="3032"/>
+        <Entity class="Bonus_Carrot" x="3072" y="392" spawnx="3067"/>
+        <Entity class="Bird" x="3168" y="368" spawnx="3168">
+            <Arguments Egg="Fireball"/>
+        </Entity>
+        <Entity class="Bird" x="3456" y="360" spawnx="3456"/>
+        <Entity class="Bonus_Apple" x="2800" y="392" spawnx="2793"/>
+        <Entity class="Bonus_Apple" x="3640" y="376" spawnx="3633"/>
+        <Entity class="Rock" x="3696" y="400" spawnx="3688"/>
+        <Entity class="Bonus_Banana" x="3824" y="328" spawnx="3816"/>
+        <Entity class="Rock" x="3984" y="400" spawnx="3976"/>
+        <Entity class="Bonus_Apple" x="4048" y="392" spawnx="4041"/>
+        <Entity class="Bonus_Apple" x="4256" y="376" spawnx="4249"/>
+        <Entity class="Rock" x="4384" y="400" spawnx="4376"/>
+        <Entity class="Rock" x="4448" y="400" spawnx="4440"/>
+        <Entity class="Bonus_Banana" x="4448" y="328" spawnx="4440"/>
+        <Entity class="Bonus_Carrot" x="4672" y="392" spawnx="4667"/>
+        <Entity class="WoodFire" x="4560" y="400" spawnx="4552"/>
+        <Entity class="Bonus_Pineapple" x="4560" y="328" spawnx="4554"/>
+        <Entity class="Cobra" x="4800" y="400" spawnx="4792"/>
+        <Entity class="Bonus_Apple" x="4784" y="328" spawnx="4777"/>
+        <Entity class="Bonus_Banana" x="4960" y="304" spawnx="4952"/>
+        <Entity class="Bonus_Apple" x="5056" y="328" spawnx="5049"/>
+        <Entity class="Bonus_Apple" x="5232" y="232" spawnx="5225"/>
+        <Entity class="Bonus_Apple" x="5680" y="176" spawnx="5673"/>
+        <Entity class="Cobra" x="5856" y="168" spawnx="5848"/>
+        <Entity class="Cobra" x="5952" y="168" spawnx="5944"/>
+        <Entity class="Egg" x="5600" y="216" spawnx="5589">
+            <Arguments Entity="Honeygirl"/>
+        </Entity>
+        <Entity class="Bonus_Apple" x="6064" y="144" spawnx="6057"/>
+        <Entity class="Bonus_Apple" x="6080" y="144" spawnx="6073"/>
+        <Entity class="WoodFire" x="6384" y="168" spawnx="6376"/>
+        <Entity class="Bonus_Apple" x="6496" y="96" spawnx="6489"/>
+        <Entity class="Bonus_Carrot" x="6528" y="160" spawnx="6523"/>
+        <Entity class="Snail" x="6624" y="168" spawnx="6612"/>
+        <Entity class="Bonus_Apple" x="6672" y="144" spawnx="6665"/>
+        <Entity class="Rock" x="6736" y="168" spawnx="6728"/>
+        <Entity class="Rock" x="6976" y="168" spawnx="6968"/>
+        <Entity class="Rock" x="7008" y="168" spawnx="7000"/>
+        <Entity class="Bonus_Banana" x="6976" y="96" spawnx="6968"/>
+        <Entity class="Snail" x="7088" y="168" spawnx="7076"/>
+        <Entity class="Snail" x="7136" y="168" spawnx="7124"/>
+        <Entity class="Frog" x="7504" y="168" spawnx="7496">
+            <Arguments Jump="false" Health="2"/>
+        </Entity>
+        <Entity class="Bonus_Pineapple" x="7840" y="96" spawnx="7834"/>
+        <Entity class="JumpSpring" x="7264" y="168" spawnx="7252"/>
+        <Entity class="Bonus_Carrot" x="8000" y="160" spawnx="7995"/>
+        <Entity class="RockBall" x="5520" y="216" spawnx="5508"/>
+        <Entity class="RockBall" x="5352" y="256" spawnx="5340"/>
+        <Entity class="RockBall" x="5200" y="296" spawnx="5188"/>
+        <Entity class="Label" x="16" y="400" spawnx="8">
+            <Arguments Type="S"/>
+        </Entity>
+        <Entity class="Label" x="2064" y="400" spawnx="2056">
+            <Arguments Type="2"/>
+        </Entity>
+        <Entity class="Label" x="4112" y="400" spawnx="4104">
+            <Arguments Type="3"/>
+        </Entity>
+        <Entity class="Label" x="6192" y="168" spawnx="6184">
+            <Arguments Type="4"/>
+        </Entity>
+        <Entity class="Label" x="8112" y="168" spawnx="8104">
+            <Arguments Type="G"/>
+        </Entity>
+        <Entity class="Bonus_Carrot" x="3840" y="384" spawnx="3835"/>
+        <Entity class="Bonus_Apple" x="320" y="376" spawnx="313"/>
+        <Entity class="PlatformZigZagVert" x="7808" y="184" spawnx="7808">
+            <Arguments Max="176" Image="Platform.Bricks" Min="112"/>
+        </Entity>
+        <Entity class="Bonus_Banana" x="480" y="328" spawnx="472"/>
+        <Entity class="Bonus_Pot" x="7296" y="48" spawnx="7288"/>
+        <Entity class="Bird" x="3776" y="360" spawnx="3776"/>
+        <Entity class="AxAux" x="4288" y="360" spawnx="4280"/>
+        <Entity class="AxAux" x="6328" y="128" spawnx="6320"/>
+        <Entity class="HiddenEgg" x="7192" y="168" spawnx="7181">
+            <Arguments Enity="Bonus_Milk"/>
+        </Entity>
+    </Entities>
+    <Arguments/>
+    <Backgrounds/>
+    <Foregrounds/>
+</Scene>

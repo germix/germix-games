@@ -1,0 +1,25 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Campaign
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Campaign_h___
+#define ___Campaign_h___
+#include <queue>
+#include <string>
+
+class CampaignRound;
+
+class Campaign
+{
+	std::queue<std::string> rounds;
+public:
+	Campaign();
+	~Campaign();
+public:
+	CampaignRound* nextRound();
+};
+
+#endif

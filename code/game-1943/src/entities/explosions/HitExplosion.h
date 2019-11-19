@@ -1,0 +1,19 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// HitExplosion
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___HitExplosion_h___
+#define ___HitExplosion_h___
+#include <src/entities/explosions/NormalExplosion.h>
+
+class HitExplosion : public NormalExplosion
+{
+public:
+	HitExplosion(Scene* s, double x, double y, Entity* ref);
+	~HitExplosion();
+};
+
+#endif

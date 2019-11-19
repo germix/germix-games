@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="40,27" frames="10" image="IronNokana-Launcher.png" name="" version="1.0">
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <AttachedPoint name="Shoot1" point="-15,20" />
+</Sprite>

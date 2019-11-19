@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="16,20" count="14" image="Bonus-Pig-Idle.png" name="Idle" version="1.0" indexes="0,1,0,1,0,1,2,3,6,4,5,6,7,8,9,10,11,12,13,4,5,4,5,6,7,8,3,2,1">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+	<Sprite anchor="14,29" count="16" image="Bonus-Pig-Falling.png" name="Falling" version="1.0" indexes="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+</SpriteSheet>
+

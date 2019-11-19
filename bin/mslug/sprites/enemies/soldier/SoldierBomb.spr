@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="" frames="8" image="SoldierBomb.png" name="SoldierBomb" version="1.0">
+  <Frame anchor="4,7"/>
+  <Frame anchor="5,11"/>
+  <Frame anchor="6,5"/>
+  <Frame anchor="5,8"/>
+  <Frame anchor="6,5"/>
+  <Frame anchor="5,5"/>
+  <Frame anchor="5,5"/>
+  <Frame anchor="5,5"/>
+</Sprite>

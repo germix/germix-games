@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite image="GrenadeExplosion.png" name="GrenadeExplosion" version="1.1">
+  <FrameList frames="27">
+    <Frame anchor="9,3" rectangle="0,0,18,5"/>
+    <Frame anchor="12,3" rectangle="0,5,24,5"/>
+    <Frame anchor="13,4" rectangle="0,10,26,6"/>
+    <Frame anchor="15,6" rectangle="0,16,30,8"/>
+    <Frame anchor="18,23" rectangle="0,24,36,25"/>
+    <Frame anchor="18,42" rectangle="0,49,38,44"/>
+    <Frame anchor="16,68" rectangle="38,0,34,70"/>
+    <Frame anchor="19,95" rectangle="72,0,41,97"/>
+    <Frame anchor="24,94" rectangle="113,0,47,96"/>
+    <Frame anchor="24,95" rectangle="160,0,47,97"/>
+    <Frame anchor="24,96" rectangle="207,0,48,98"/>
+    <Frame anchor="24,96" rectangle="0,93,48,98"/>
+    <Frame anchor="23,97" rectangle="48,97,47,99"/>
+    <Frame anchor="23,99" rectangle="95,97,48,100"/>
+    <Frame anchor="22,100" rectangle="143,97,47,101"/>
+    <Frame anchor="22,101" rectangle="190,98,47,99"/>
+    <Frame anchor="23,101" rectangle="255,0,48,92"/>
+    <Frame anchor="23,102" rectangle="237,98,48,86"/>
+    <Frame anchor="22,103" rectangle="0,191,48,81"/>
+    <Frame anchor="23,103" rectangle="48,197,48,82"/>
+    <Frame anchor="23,103" rectangle="96,198,48,80"/>
+    <Frame anchor="23,104" rectangle="144,198,48,75"/>
+    <Frame anchor="23,104" rectangle="192,197,48,70"/>
+    <Frame anchor="23,104" rectangle="240,184,48,65"/>
+    <Frame anchor="23,104" rectangle="192,267,48,62"/>
+    <Frame anchor="22,101" rectangle="240,249,48,61"/>
+    <Frame anchor="24,98" rectangle="0,272,48,50"/>
+  </FrameList>
+</Sprite>

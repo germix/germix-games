@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="22,4" frames="15" image="IronNokana-Cannon.png" name="" version="1.0">
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor=""/>
+  <Frame anchor="22,6"/>
+  <Frame anchor="22,6"/>
+  <Frame anchor="22,6"/>
+  <Frame anchor="22,6"/>
+  <Frame anchor="22,6"/>
+  <AttachedPoint name="Shot" point="-2,12" />
+</Sprite>

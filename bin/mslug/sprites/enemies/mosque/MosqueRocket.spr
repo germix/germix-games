@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="0,0" count="16" image="MosqueRocket1.png" name="Rocket1" version="1.0">
+		<Frame anchor="9,0"/>
+		<Frame anchor="23,0"/>
+		<Frame anchor="29,0"/>
+		<Frame anchor="32,1"/>
+		<Frame anchor="39,9"/>
+		<Frame anchor="33,23"/>
+		<Frame anchor="29,29"/>
+		<Frame anchor="24,33"/>
+		<Frame anchor="9,39"/>
+		<Frame anchor="1,33"/>
+		<Frame anchor="0,29"/>
+		<Frame anchor="0,22"/>
+		<Frame anchor="0,9"/>
+		<Frame anchor="0,1"/>
+		<Frame anchor="0,0"/>
+		<Frame anchor="1,0"/>
+	</Sprite>
+	<Sprite anchor="0,0" count="16" image="MosqueRocket2.png" name="Rocket2" version="1.0">
+		<Frame anchor="9,0"/>
+		<Frame anchor="23,0"/>
+		<Frame anchor="29,0"/>
+		<Frame anchor="32,1"/>
+		<Frame anchor="39,9"/>
+		<Frame anchor="33,23"/>
+		<Frame anchor="29,29"/>
+		<Frame anchor="24,33"/>
+		<Frame anchor="9,39"/>
+		<Frame anchor="1,33"/>
+		<Frame anchor="0,29"/>
+		<Frame anchor="0,22"/>
+		<Frame anchor="0,9"/>
+		<Frame anchor="0,1"/>
+		<Frame anchor="0,0"/>
+		<Frame anchor="1,0"/>
+	</Sprite>
+	<Sprite anchor="0,0" count="16" image="MosqueRocket3.png" name="Rocket3" version="1.0">
+		<Frame anchor="9,0"/>
+		<Frame anchor="23,0"/>
+		<Frame anchor="29,0"/>
+		<Frame anchor="32,1"/>
+		<Frame anchor="39,9"/>
+		<Frame anchor="33,23"/>
+		<Frame anchor="29,29"/>
+		<Frame anchor="24,33"/>
+		<Frame anchor="9,39"/>
+		<Frame anchor="1,33"/>
+		<Frame anchor="0,29"/>
+		<Frame anchor="0,22"/>
+		<Frame anchor="0,9"/>
+		<Frame anchor="0,1"/>
+		<Frame anchor="0,0"/>
+		<Frame anchor="1,0"/>
+	</Sprite>
+</SpriteSheet>

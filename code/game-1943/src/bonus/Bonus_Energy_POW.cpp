@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_Energy_POW
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#include <src/bonus/Bonus_Energy_POW.h>
+#include <src/entities/hero/Hero.h>
+
+Bonus_Energy_POW::Bonus_Energy_POW() : Bonus("pow", "energy.pow")
+{
+}
+Bonus_Energy_POW::~Bonus_Energy_POW()
+{
+}
+void Bonus_Energy_POW::action(Scene* scene, Hero* hero)
+{
+	hero->addHealth(10);
+}
+

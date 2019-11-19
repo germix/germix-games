@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Resources>
+	<Resource type="Font" name="Font.1" file="fonts/font-1.xml" />
+	<Resource type="Font" name="Font.2" file="fonts/font-2.xml" />
+	
+	<Resource type="Music" name="Intro" file="music/Track - 01.ogg" />
+	<Resource type="Music" name="Winner" file="music/Track - 11.ogg" />
+	<Resource type="Music" name="GameOver" file="music/Track - 10.ogg" />
+	<Resource type="Music" name="MonsterCastle" file="music/Track - 12.ogg" />
+	<Resource type="Music" name="AreaCompleted" file="music/Track - 13.ogg" />
+	<Resource type="Music" name="RoundCompleted" file="music/Track - 14.ogg" />
+	<Resource type="Music" name="Eggplant" file="music/Track - 08.ogg" />
+	<Resource type="Music" name="Honeygirl" file="music/Track - 07.ogg" />
+	
+	<Resource type="Sound" name="Dead" file="music/Track - 09.ogg" />
+	<Resource type="Sound" name="KillEnemy" file="sounds/Adventure Island SFX (13).ogg" />
+	<Resource type="Sound" name="Bonus" file="sounds/Adventure Island SFX (3).ogg" />
+	<Resource type="Sound" name="AddScore" file="sounds/Adventure Island SFX (18).ogg" />
+	<Resource type="Sound" name="PotBonus" file="sounds/Adventure Island SFX (10).ogg" />
+	<Resource type="Sound" name="MenuItemSelected" file="sounds/Adventure Island SFX (13).ogg" />
+	<Resource type="Sound" name="CollidesWithHoneygirl" file="sounds/Adventure Island SFX (15).ogg" />
+	
+	<Resource type="Texture" name="LivesMark" file="images/LivesMark.png" />
+	<Resource type="Texture" name="HealthMark" file="images/HealthMark.png" />
+	<Resource type="Texture" name="InitScreen" file="images/InitScreen.png" />
+	<Resource type="Texture" name="HappyCouple" file="images/HappyCouple.png" />
+	<Resource type="Texture" name="HappyCoupleHeart" file="images/HappyCoupleHeart.png" />
+	
+	<Resource type="Texture" name="Platform.Bricks" file="images/platforms/platform-bricks.png" />
+	<Resource type="Texture" name="Platform.Bricks.2" file="images/platforms/platform-bricks-2.png" />
+	<Resource type="Texture" name="Platform.Castle" file="images/platforms/platform-castle.png" />
+	<Resource type="Texture" name="Platform.Mosaic" file="images/platforms/platform-mosaic.png" />
+	<Resource type="Texture" name="Platform.Clouds.1" file="images/platforms/platform-clouds.png" />
+	<Resource type="Texture" name="Platform.Clouds.2" file="images/platforms/platform-clouds-2.png" />
+	
+	<Resource type="Texture" name="Pause" file="images/pause.png" />
+	
+	<Resource type="Texture" name="Bonus.Apple" file="images/objects/Bonus-Apple.png" />
+	<Resource type="Texture" name="Bonus.Ax" file="images/objects/Bonus-Ax.png" />
+	<Resource type="Texture" name="Bonus.Banana" file="images/objects/Bonus-Banana.png" />
+	<Resource type="Texture" name="Bonus.Carrot" file="images/objects/Bonus-Carrot.png" />
+	<Resource type="Texture" name="Bonus.ExtraLife" file="images/objects/Bonus-ExtraLife.png" />
+	<Resource type="Texture" name="Bonus.Fireball" file="images/objects/Bonus-Fireball.png" />
+	<Resource type="Texture" name="Bonus.Flower" file="images/objects/Bonus-Flower.png" />
+	<Resource type="Texture" name="Bonus.Gamepad" file="images/objects/Bonus-Gamepad.png" />
+	<Resource type="Texture" name="Bonus.Milk" file="images/objects/Bonus-Milk.png" />
+	<Resource type="Texture" name="Bonus.Pineapple" file="images/objects/Bonus-Pineapple.png" />
+	<Resource type="Texture" name="Bonus.Pot" file="images/objects/Bonus-Pot.png" />
+	<Resource type="Texture" name="Bonus.Skate" file="images/objects/Bonus-Skate.png" />
+	<Resource type="Texture" name="Bonus.Tomato" file="images/objects/Bonus-Tomato.png" />
+	<Resource type="Texture" name="Cobra" file="images/objects/Cobra.png" />
+	<Resource type="Texture" name="Eggplant" file="images/objects/Eggplant.png" />
+	<Resource type="Texture" name="Honeygirl" file="images/objects/Honeygirl.png" />
+	<Resource type="Texture" name="Icicle" file="images/objects/Icicle.png" />
+	<Resource type="Texture" name="Icicle.Crash" file="images/objects/Icicle-Crash.png" />
+	<Resource type="Texture" name="Label.2" file="images/objects/Label-2.png" />
+	<Resource type="Texture" name="Label.3" file="images/objects/Label-3.png" />
+	<Resource type="Texture" name="Label.4" file="images/objects/Label-4.png" />
+	<Resource type="Texture" name="Label.G" file="images/objects/Label-G.png" />
+	<Resource type="Texture" name="Label.S" file="images/objects/Label-S.png" />
+	<Resource type="Texture" name="Pot" file="images/objects/Pot.png" />
+	<Resource type="Texture" name="Rock" file="images/objects/Rock.png" />
+	<Resource type="Texture" name="RockBall" file="images/objects/RockBall.png" />
+	<Resource type="Texture" name="Spider" file="images/objects/Spider.png" />
+	<Resource type="Texture" name="Swordfish" file="images/objects/Swordfish.png" />
+	<Resource type="Texture" name="Swordfish.Dead" file="images/objects/Swordfish-Dead.png" />
+	
+	<Resource type="SpriteSheet" name="Bat" file="sprites/Bat.spr" />
+	<Resource type="SpriteSheet" name="Bird" file="sprites/Bird.spr" />
+	<Resource type="SpriteSheet" name="CobraBullet" file="sprites/CobraBullet.spr" />
+	<Resource type="SpriteSheet" name="Coyote" file="sprites/Coyote.spr" />
+	<Resource type="SpriteSheet" name="Egg" file="sprites/Egg.spr" />
+	<Resource type="SpriteSheet" name="Frog" file="sprites/Frog.spr" />
+	<Resource type="SpriteSheet" name="Tina" file="sprites/Girl.spr" />
+	<Resource type="SpriteSheet" name="Hammer" file="sprites/Hammer.spr" />
+	<Resource type="SpriteSheet" name="Hero" file="sprites/Hero.spr" />
+	<Resource type="SpriteSheet" name="HeroBulletAx" file="sprites/HeroBulletAx.spr" />
+	<Resource type="SpriteSheet" name="HeroBulletFireball" file="sprites/HeroBulletFireball.spr" />
+	<Resource type="SpriteSheet" name="Icicle" file="sprites/Icicle.spr" />
+	<Resource type="SpriteSheet" name="JumpSpring" file="sprites/JumpSpring.spr" />
+	<Resource type="SpriteSheet" name="Monster" file="sprites/Monster.spr" />
+	<Resource type="SpriteSheet" name="Pooter" file="sprites/Pooter.spr" />
+	<Resource type="SpriteSheet" name="Pulposus" file="sprites/Pulposus.spr" />
+	<Resource type="SpriteSheet" name="Skull" file="sprites/Skull.spr" />
+	<Resource type="SpriteSheet" name="Snail" file="sprites/Snail.spr" />
+	<Resource type="SpriteSheet" name="Splash" file="sprites/Splash.spr" />
+	<Resource type="SpriteSheet" name="WoodFire" file="sprites/WoodFire.spr" />
+</Resources>
+

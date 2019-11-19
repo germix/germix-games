@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntityDefinitions version="1.0">
+    <Definition type="Coyote" class="com.germix.games.aisland.entities.enemies.Coyote" anchor="8,24" rectangle="0,0,16,24" image="Coyote.png"/>
+    <Definition type="Swordfish" class="com.germix.games.aisland.entities.enemies.Swordfish" anchor="32,10" rectangle="0,0,64,10" image="Swordfish.png"/>
+    <Definition type="Bonus-Banana" class="com.germix.games.aisland.entities.bonus.Bonus_Banana" anchor="8,14" rectangle="0,0,16,14" image="Bonus-Banana.png"/>
+    <Definition type="Bat" class="com.germix.games.aisland.entities.enemies.Bat" anchor="8,15" rectangle="0,0,16,15" image="Bat.png"/>
+    <Definition type="Hero" class="com.germix.games.aisland.entities.hero.Hero" anchor="8,32" rectangle="0,0,16,32" image="Hero.png"/>
+    <Definition type="Platform-FallDown" class="com.germix.games.aisland.entities.platforms.PlatformFallDown" anchor="0,0" rectangle="0,0,64,16" image="PlatformFallDown.png"/>
+    <Definition type="Frog" class="com.germix.games.aisland.entities.enemies.Frog" anchor="8,16" rectangle="0,0,16,16" image="Frog.png"/>
+    <Definition type="Bonus-Apple" class="com.germix.games.aisland.entities.bonus.Bonus_Apple" anchor="7,15" rectangle="0,0,14,15" image="Bonus-Apple.png"/>
+    <Definition type="Platform-ScrollDown" class="com.germix.games.aisland.entities.platforms.PlatformScrollDown" anchor="0,0" rectangle="0,0,64,16" image="PlatformScrollDown.png"/>
+    <Definition type="Platform-MoveTo" class="com.germix.games.aisland.entities.platforms.PlatformMoveTo" anchor="0,0" rectangle="0,0,64,16" image="PlatformMoveTo.png"/>
+    <Definition type="Platform-ZigZagHorz" class="com.germix.games.aisland.entities.platforms.PlatformZigZagHorz" anchor="0,0" rectangle="0,0,64,16" image="PlatformZigZagHorz.png"/>
+    <Definition type="Platform-FallUp" class="com.germix.games.aisland.entities.platforms.PlatformFallUp" anchor="0,0" rectangle="0,0,64,16" image="PlatformFallUp.png"/>
+    <Definition type="Platform-ScrollUp" class="com.germix.games.aisland.entities.platforms.PlatformScrollUp" anchor="0,0" rectangle="0,0,64,16" image="PlatformScrollUp.png"/>
+    <Definition type="Bonus-Pot" class="com.germix.games.aisland.entities.bonus.Bonus_Pot" anchor="8,24" rectangle="0,0,16,24" image="Bonus-Pot.png"/>
+    <Definition type="Egg" class="com.germix.games.aisland.entities.Egg" anchor="11,16" rectangle="0,0,22,16" image="Egg.png"/>
+    <Definition type="Pooter" class="com.germix.games.aisland.entities.enemies.Pooter" anchor="9,24" rectangle="0,0,16,24" image="Pooter.png"/>
+    <Definition type="RockBall" class="com.germix.games.aisland.entities.enemies.RockBall" anchor="12,24" rectangle="0,0,24,24" image="RockBall.png"/>
+    <Definition type="HiddenEgg" class="com.germix.games.aisland.entities.HiddenEgg" anchor="11,16" rectangle="0,0,22,16" image="HiddenEgg.png"/>
+    <Definition type="Icicle" class="com.germix.games.aisland.entities.enemies.Icicle" anchor="7,24" rectangle="0,0,14,25" image="Icicle.png"/>
+    <Definition type="JumpSpring" class="com.germix.games.aisland.entities.JumpSpring" anchor="12,14" rectangle="0,0,24,14" image="JumpSpring.png"/>
+    <Definition type="WoodFire" class="com.germix.games.aisland.entities.enemies.WoodFire" anchor="8,24" rectangle="0,0,16,24" image="WoodFire.png"/>
+    <Definition type="Skull" class="com.germix.games.aisland.entities.enemies.Skull" anchor="7,16" rectangle="0,0,14,16" image="Skull.png"/>
+    <Definition type="Bonus-Tomato" class="com.germix.games.aisland.entities.bonus.Bonus_Tomato" anchor="7,12" rectangle="0,0,14,12" image="Bonus-Tomato.png"/>
+    <Definition type="Platform-ZigZagVert" class="com.germix.games.aisland.entities.platforms.PlatformZigZagVert" anchor="0,0" rectangle="0,0,64,16" image="PlatformZigZagVert.png"/>
+    <Definition type="Pulposus" class="com.germix.games.aisland.entities.enemies.Pulposus" anchor="6,21" rectangle="0,0,12,21" image="Pulposus.png"/>
+    <Definition type="Bird" class="com.germix.games.aisland.entities.enemies.Bird" anchor="0,0" rectangle="0,0,15,15" image="Bird.png"/>
+    <Definition type="Label" class="com.germix.games.aisland.entities.Label" anchor="8,16" rectangle="0,0,16,16" image="Label.png"/>
+    <Definition type="Cobra" class="com.germix.games.aisland.entities.enemies.Cobra" anchor="8,23" rectangle="0,0,16,23" image="Cobra.png"/>
+    <Definition type="Bonus-Pineapple" class="com.germix.games.aisland.entities.bonus.Bonus_Pineapple" anchor="6,16" rectangle="0,0,12,16" image="Bonus-Pineapple.png"/>
+    <Definition type="Spider" class="com.germix.games.aisland.entities.enemies.Spider" anchor="8,16" rectangle="0,0,16,16" image="Spider.png"/>
+    <Definition type="Rock" class="com.germix.games.aisland.entities.enemies.Rock" anchor="8,16" rectangle="0,0,16,16" image="Rock.png"/>
+    <Definition type="Snail" class="com.germix.games.aisland.entities.enemies.Snail" anchor="12,24" rectangle="0,0,24,24" image="Snail.png"/>
+    <Definition type="Platform-Fixed" class="com.germix.games.aisland.entities.platforms.PlatformFixed" anchor="0,0" rectangle="0,0,64,16" image="PlatformFixed.png"/>
+    <Definition type="Bonus-Carrot" class="com.germix.games.aisland.entities.bonus.Bonus_Carrot" anchor="5,16" rectangle="0,0,10,16" image="Bonus-Carrot.png"/>
+    <Definition type="Monster" class="com.germix.games.aisland.entities.enemies.Monster" anchor="20,78" rectangle="0,0,40,78" image="Monster.png"/>
+</EntityDefinitions>

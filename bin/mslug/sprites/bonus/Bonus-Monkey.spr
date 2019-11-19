@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="14,28" count="5" image="Bonus-Monkey1.png" name="1" version="1.0" indexes="0,1,2,3,4,3,2,1" />
+	<Sprite anchor="14,28" count="5" image="Bonus-Monkey2.png" name="2" version="1.0" indexes="0,1,2,3,4,3,2,1" />
+</SpriteSheet>
+

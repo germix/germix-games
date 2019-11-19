@@ -1,0 +1,22 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_Apple
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Bonus_Apple_h___
+#define ___Bonus_Apple_h___
+#include <src/entities/bonus/Bonus_Fruit.h>
+
+class Bonus_Apple : public Bonus_Fruit
+{
+	TimeClock clock;
+public:
+	Bonus_Apple(Scene* s, double x, double y);
+	~Bonus_Apple();
+public:
+	void activated(Hero* h);
+};
+
+#endif

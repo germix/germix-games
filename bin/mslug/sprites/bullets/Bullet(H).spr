@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="" frames="17" image="Bullet(H).png" name="Bullet.WeaponH" version="1.0">
+  <Frame anchor="29,2"/>
+  <Frame anchor="27,4"/>
+  <Frame anchor="27,6"/>
+  <Frame anchor="26,9"/>
+  <Frame anchor="25,11"/>
+  <Frame anchor="24,13"/>
+  <Frame anchor="24,17"/>
+  <Frame anchor="23,19"/>
+  <Frame anchor="21,21"/>
+  <Frame anchor="19,23"/>
+  <Frame anchor="16,24"/>
+  <Frame anchor="14,25"/>
+  <Frame anchor="10,26"/>
+  <Frame anchor="9,26"/>
+  <Frame anchor="6,27"/>
+  <Frame anchor="3,28"/>
+  <Frame anchor="2,29"/>
+</Sprite>

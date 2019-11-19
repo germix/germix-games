@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.2" image="Monster.png">
+    <ImageList>
+        <Image anchor="12,78" rectangle="0,0,24,24"/>
+        <Image anchor="12,78" rectangle="24,0,24,24"/>
+        <Image anchor="12,78" rectangle="48,0,24,24"/>
+        <Image anchor="12,78" rectangle="72,0,24,24"/>
+        <Image anchor="12,78" rectangle="96,0,24,24"/>
+        <Image anchor="12,78" rectangle="120,0,24,24"/>
+        <Image anchor="12,78" rectangle="144,0,24,24"/>
+        <Image anchor="12,78" rectangle="168,0,24,24"/>
+        <Image anchor="12,78" rectangle="192,0,24,24"/>
+        <Image anchor="12,78" rectangle="216,0,24,24"/>
+        <Image anchor="11,78" rectangle="240,0,23,24"/>
+        <Image anchor="11,78" rectangle="263,0,23,24"/>
+        <Image anchor="12,78" rectangle="286,0,24,24"/>
+        <Image anchor="12,78" rectangle="310,0,24,24"/>
+        <Image anchor="12,78" rectangle="334,0,24,24"/>
+        <Image anchor="12,78" rectangle="358,0,24,24"/>
+        <Image anchor="20,54" rectangle="382,0,40,54"/>
+        <Image anchor="17,54" rectangle="422,0,36,54"/>
+        <Image anchor="19,54" rectangle="458,0,50,54"/>
+        <Image anchor="20,54" rectangle="508,0,44,54"/>
+        <Image anchor="8,8" rectangle="552,0,16,16"/>
+        <Image anchor="8,8" rectangle="568,0,16,16"/>
+    </ImageList>
+    <SpriteList>
+        <Sprite name="Head" indexes="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"/>
+        <Sprite name="Walk" indexes="16,17"/>
+        <Sprite name="Attack" indexes="18,19"/>
+        <Sprite name="Bullet" indexes="20,21"/>
+    </SpriteList>
+</SpriteSheet>

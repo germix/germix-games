@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.2" image="Splash.png">
+    <ImageList>
+        <Image anchor="4,4" rectangle="0,0,8,8"/>
+        <Image anchor="6,7" rectangle="8,0,12,14"/>
+        <Image anchor="7,6" rectangle="20,0,14,12"/>
+    </ImageList>
+    <SpriteList>
+        <Sprite name="Idle" indexes="0,1,2,1,2,1,0"/>
+    </SpriteList>
+</SpriteSheet>

@@ -1,0 +1,12 @@
+<SpriteSheet>
+	<Sprite name="Ascend" image="../images/hero/olive/hero-ascend.png" count="14" />
+	<Sprite name="Descend" image="../images/hero/olive/hero-descend.png" count="7" />
+	<Sprite name="Dying" image="../images/hero/olive/hero-dying.png" count="16" />
+	<Sprite name="Looping" image="../images/hero/olive/hero-looping.png" count="9" />
+	<Sprite name="Normal" image="../images/hero/olive/hero-normal.png" count="5" />
+	<Sprite name="Starting" image="../images/hero/olive/hero-starting.png" count="4" />
+	
+	<Sprite name="SideFighter.Looping" image="../images/reinforcement/olive/side_fighter-looping.png" count="4" />
+	<Sprite name="SideFighter.NormalLeft" image="../images/reinforcement/olive/side_fighter-normal-left.png" count="5" />
+	<Sprite name="SideFighter.NormalRight" image="../images/reinforcement/olive/side_fighter-normal-right.png" count="5" />
+</SpriteSheet>

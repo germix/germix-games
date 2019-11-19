@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.2" image="JumpSpring.png">
+    <ImageList>
+        <Image anchor="12,14" rectangle="0,0,24,14"/>
+        <Image anchor="12,22" rectangle="24,0,24,22"/>
+    </ImageList>
+    <SpriteList>
+        <Sprite name="None" indexes="0,1"/>
+    </SpriteList>
+</SpriteSheet>

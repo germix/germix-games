@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_Weapon_Auto
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Bonus_Weapon_Auto_h___
+#define ___Bonus_Weapon_Auto_h___
+#include <src/Bonus.h>
+
+class Bonus_Weapon_Auto : public Bonus
+{
+public:
+	Bonus_Weapon_Auto();
+	virtual ~Bonus_Weapon_Auto();
+public:
+	virtual void action(Scene* scene, Hero* hero);
+};
+
+#endif

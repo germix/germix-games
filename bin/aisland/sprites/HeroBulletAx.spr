@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.2" image="HeroBulletAx.png">
+    <ImageList>
+        <Image anchor="0,0" rectangle="0,0,16,16"/>
+        <Image anchor="0,0" rectangle="16,0,16,16"/>
+        <Image anchor="8,8" rectangle="32,0,16,16"/>
+        <Image anchor="8,8" rectangle="48,0,16,16"/>
+        <Image anchor="8,8" rectangle="64,0,16,16"/>
+        <Image anchor="8,8" rectangle="80,0,16,16"/>
+    </ImageList>
+    <SpriteList>
+        <Sprite name="Idle" indexes="2,3,4,5"/>
+    </SpriteList>
+</SpriteSheet>

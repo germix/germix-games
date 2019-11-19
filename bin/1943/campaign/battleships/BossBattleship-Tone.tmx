@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="316" tilewidth="1" tileheight="1">
+ <properties>
+  <property name="model" value="battleship.boss.tone"/>
+ </properties>
+ <objectgroup name="Cannons" width="64" height="316">
+  <object type="32x32.1" x="14" y="209" width="32" height="32"/>
+  <object type="32x32.1" x="14" y="233" width="32" height="32"/>
+  <object type="32x32.1" x="15" y="71" width="32" height="32"/>
+  <object type="32x32.1" x="15" y="57" width="32" height="32"/>
+  <object type="32x32.1" x="15" y="43" width="32" height="32"/>
+  <object type="16x16.1" x="0" y="123" width="16" height="16"/>
+  <object type="16x16.1" x="43" y="124" width="16" height="16"/>
+  <object type="16x16.1" x="0" y="162" width="16" height="16"/>
+  <object type="16x16.1" x="43" y="162" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="Towers" width="64" height="316">
+  <object type="tower.1" x="13" y="100" width="32" height="32"/>
+ </objectgroup>
+</map>

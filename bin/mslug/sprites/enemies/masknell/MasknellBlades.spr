@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="32,1" count="8" image="Masknell (Blades-1).png" name="Blades1" version="1.0">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+	<Sprite anchor="32,1" count="8" image="Masknell (Blades-2).png" name="Blades2" version="1.0">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+	<Sprite anchor="32,1" count="8" image="Masknell (Blades-3).png" name="Blades3" version="1.0">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+	<Sprite anchor="32,1" count="8" image="Masknell (Blades-4).png" name="Blades4" version="1.0">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+	<Sprite anchor="32,1" count="8" image="Masknell (Blades-5).png" name="Blades5" version="1.0">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+	<Sprite anchor="32,1" count="8" image="Masknell (Blades-6).png" name="Blades6" version="1.0">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+</SpriteSheet>
+

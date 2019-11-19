@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_SideFighter
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Bonus_SideFighter_h___
+#define ___Bonus_SideFighter_h___
+#include <src/Bonus.h>
+
+class Bonus_SideFighter : public Bonus
+{
+public:
+	Bonus_SideFighter();
+	virtual ~Bonus_SideFighter();
+public:
+	virtual void action(Scene* scene, Hero* hero);
+};
+
+#endif

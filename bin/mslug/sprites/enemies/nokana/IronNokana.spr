@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="0,71" count="11" image="IronNokana-Hull.png" name="Hull">
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,5" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,5" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,8" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,6" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,5" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,4" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,1" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,0" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,0" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,0" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Launcher" point="67,2" />
+		</Frame>
+		<AttachedPoint name="Cannon" point="47,12" />
+		<AttachedRectangle name="Hit" rectangle="16,32,128,64" />
+	</Sprite>
+	<Sprite anchor="16,0" count="14" image="IronNokana-Turret.png" name="Turret">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<AttachedPoint name="Flames" point="2,39" />
+		<AttachedRectangle name="Hit" rectangle="23,20,41,36" />
+	</Sprite>
+	<Sprite anchor="114,66" count="48" image="IronNokana-Turret(Flames).png" name="Turret.Flames">
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="96,48,20,28" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="92,48,24,32" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="92,48,24,32" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,32" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,28" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,48,28,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="88,56,36,20" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="60,56,56,20" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="32,56,84,20" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="32,52,84,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="24,48,92,28" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="24,40,92,36" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="16,40,100,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,104,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="8,40,96,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="8,40,88,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,76,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,76,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="16,40,68,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="20,40,60,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="36,40,44,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="56,56,20,24" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,104,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="0,40,116,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="8,40,108,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,104,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="8,40,108,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,104,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="8,40,108,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="8,40,108,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,104,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="0,40,116,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="8,40,108,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,104,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="8,40,108,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="8,40,108,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,104,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,104,40" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedRectangle name="Burn" rectangle="12,40,104,40" />
+		</Frame>
+	</Sprite>
+	<Sprite anchor="22,4" count="15" image="IronNokana-Cannon.png" name="Cannon">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor="22,6"/>
+		<Frame anchor="22,6"/>
+		<Frame anchor="22,6"/>
+		<Frame anchor="22,6"/>
+		<Frame anchor="22,6"/>
+		<AttachedPoint name="Shot" point="-2,12" />
+	</Sprite>
+
+	<Sprite anchor="40,27" count="10" image="IronNokana-Launcher.png" name="Launcher">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<AttachedPoint name="Shoot1" point="-15,20" />
+	</Sprite>
+	<Sprite anchor="-6,66" count="19" image="IronNokana-Wheels(Back).png" name="Wheels.Back">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+	<Sprite anchor="0,88" count="29" image="IronNokana-Wheels(Front).png" name="Wheels.Front">
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="15,56" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="15,56" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="15,56" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="15,56" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="15,59" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="15,58" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="15,59" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="15,58" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,58" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,57" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,55" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,53" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,52" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,50" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,49" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,47" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,45" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,43" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,41" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,39" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,37" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,35" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,33" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,31" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,29" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,27" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,26" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,27" />
+		</Frame>
+		<Frame anchor="" >
+			<AttachedPoint name="Hull" point="16,28" />
+		</Frame>
+		<AttachedPoint name="Turret" point="72,32" />
+	</Sprite>
+
+</SpriteSheet>

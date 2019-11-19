@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="" frames="1" image="Bullet(P).png" name="Bullet(P)" version="1.0">
+  <Frame anchor="4,4"/>
+</Sprite>

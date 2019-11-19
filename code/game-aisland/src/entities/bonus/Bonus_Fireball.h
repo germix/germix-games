@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_Fireball
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Bonus_Fireball_h___
+#define ___Bonus_Fireball_h___
+#include <src/entities/Bonus.h>
+
+class Bonus_Fireball : public Bonus
+{
+public:
+	Bonus_Fireball(Scene* s, double x, double y);
+	~Bonus_Fireball();
+public:
+	void activated(Hero* h);
+};
+
+#endif

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="512" tilewidth="8" tileheight="8">
+ <properties>
+  <property name="bonus" value="barrel"/>
+ </properties>
+ <imagelayer name="Ocean" width="32" height="512">
+  <image source="stageB-ocean.png"/>
+ </imagelayer>
+ <objectgroup name="Battleship-1" width="32" height="512">
+  <object type="Battleship" x="160" y="3616" width="32" height="176">
+   <properties>
+    <property name="file" value="Battleship-02"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Battleship-2" width="32" height="512">
+  <object type="Battleship" x="32" y="3320" width="48" height="248">
+   <properties>
+    <property name="file" value="Battleship-03"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Battleship-Boss" width="32" height="512">
+  <object type="BossBattleship" x="67" y="2457" width="120" height="520">
+   <properties>
+    <property name="file" value="BossBattleship-Yamato"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Battleship-3" width="32" height="512">
+  <object type="Battleship" x="184" y="3176" width="48" height="248">
+   <properties>
+    <property name="file" value="Battleship-03"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Battleship-4" width="32" height="512">
+  <object type="Battleship" x="105" y="3006" width="32" height="176">
+   <properties>
+    <property name="file" value="Battleship-04"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Battleship-5" width="32" height="512">
+  <object type="Battleship" x="29" y="2791" width="32" height="176">
+   <properties>
+    <property name="file" value="Battleship-01"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Battleship-6" width="32" height="512">
+  <object type="Battleship" x="186" y="2756" width="48" height="248">
+   <properties>
+    <property name="file" value="Battleship-03"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="AircraftGroup-1" width="32" height="512">
+  <object type="Aircraft" x="89" y="3776" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="37" y="3841" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="15" y="3783" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="75" y="2891" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="112" y="2975" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="142" y="2988" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="217" y="2959" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="83" y="2974" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="177" y="3018" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="36" y="2986" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="130" y="2936" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="193" y="2887" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="130" y="3458" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="123" y="3364" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="184" y="3458" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="148" y="3301" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="32" y="3394" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="70" y="3441" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="86" y="2679" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="116" y="2405" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="10" y="2662" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="192" y="2488" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="52" y="2778" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="56" y="2446" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="154" y="2624" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="63" y="2745" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="200" y="2586" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="151" y="2728" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="30" y="2591" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="172" y="2437" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="124" y="2671" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="109" y="2569" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="210" y="2763" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="140" y="2783" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="196" y="2680" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="40" y="2715" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="140" y="2437" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="17" y="2485" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="214" y="3203" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="158" y="3171" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="182" y="3203" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="166" y="3580" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="198" y="3580" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="142" y="3548" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="120" y="2166" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="194" y="2160" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="66" y="2074" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="gray"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="AircraftGroup-2" width="32" height="512">
+  <properties>
+   <property name="bonus" value="pow,shotgun,pow,3way,pow,auto,pow,shell"/>
+  </properties>
+  <object type="AircraftTroop" x="113" y="3652" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="67" y="3622" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="92" y="3629" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="58" y="3660" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="90" y="3676" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="AircraftGroup-3" width="32" height="512">
+  <properties>
+   <property name="bonus" value="pow,shotgun,pow,3way,pow,auto,pow,shell"/>
+  </properties>
+  <object type="AircraftTroop" x="84" y="3094" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="58" y="3120" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="42" y="3056" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="65" y="3066" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="35" y="3112" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="AircraftGroup-4" width="32" height="512">
+  <object type="AircraftTroop" x="148" y="2935" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="155" y="2879" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="174" y="2917" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="198" y="2952" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="196" y="2886" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

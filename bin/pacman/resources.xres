@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Resources>
+	<Resource type="Sound" name="Eat" file="sounds/eat.ogg" />
+	<Resource type="Sound" name="Die" file="sounds/die.ogg" />
+	<Resource type="Sound" name="Loop1" file="sounds/loop1.ogg" />
+	<Resource type="Sound" name="Loop2" file="sounds/loop2.ogg" />
+	<Resource type="Sound" name="Bonus" file="sounds/bonus.ogg" />
+	<Resource type="Sound" name="Opening" file="sounds/opening.ogg" />
+	
+	<Resource type="Font" name="Font.Red" file="fonts/font-red.xml" />
+	<Resource type="Font" name="Font.White" file="fonts/font-white.xml" />
+	
+	<Resource type="Texture" name="Pacman" file="images/entities/pacman.png" />
+	
+	<Resource type="Texture" name="Ghost.0" file="images/entities/ghost-0.png" />
+	<Resource type="Texture" name="Ghost.1" file="images/entities/ghost-1.png" />
+	<Resource type="Texture" name="Ghost.Blinky" file="images/entities/ghost-blinky.png" />
+	<Resource type="Texture" name="Ghost.Inky" file="images/entities/ghost-inky.png" />
+	<Resource type="Texture" name="Ghost.Pinky" file="images/entities/ghost-pinky.png" />
+	<Resource type="Texture" name="Ghost.Clyde" file="images/entities/ghost-clyde.png" />
+	
+	<Resource type="Texture" name="Pause" file="images/pause.png" />
+	<Resource type="Texture" name="Heart" file="images/heart.png" />
+	<Resource type="Texture" name="Ballon" file="images/ballon.png" />
+	<Resource type="Texture" name="Title" file="images/menu/title.png" />
+	<Resource type="Texture" name="ArrowLeft" file="images/menu/arrow-left.png" />
+	<Resource type="Texture" name="ArrowRight" file="images/menu/arrow-right.png" />
+	
+	<Resource type="Texture" name="classic-blue" file="images/tilesets/classic-blue.png" />
+	<Resource type="Texture" name="classic-green" file="images/tilesets/classic-green.png" />
+	<Resource type="Texture" name="classic-orange" file="images/tilesets/classic-orange.png" />
+	<Resource type="Texture" name="classic-red" file="images/tilesets/classic-red.png" />
+	<Resource type="Texture" name="classic-white" file="images/tilesets/classic-white.png" />
+	<Resource type="Texture" name="jrpacman-1" file="images/tilesets/jrpacman-1.png" />
+	<Resource type="Texture" name="jrpacman-2" file="images/tilesets/jrpacman-2.png" />
+	<Resource type="Texture" name="jrpacman-3" file="images/tilesets/jrpacman-3.png" />
+	<Resource type="Texture" name="jrpacman-4" file="images/tilesets/jrpacman-4.png" />
+	<Resource type="Texture" name="jrpacman-5" file="images/tilesets/jrpacman-5.png" />
+	<Resource type="Texture" name="jrpacman-6" file="images/tilesets/jrpacman-6.png" />
+	<Resource type="Texture" name="jrpacman-7" file="images/tilesets/jrpacman-7.png" />
+	<Resource type="Texture" name="mspacman-1" file="images/tilesets/mspacman-1.png" />
+	<Resource type="Texture" name="mspacman-2" file="images/tilesets/mspacman-2.png" />
+	<Resource type="Texture" name="mspacman-3" file="images/tilesets/mspacman-3.png" />
+	<Resource type="Texture" name="mspacman-4" file="images/tilesets/mspacman-4.png" />
+	
+	<Resource type="Texture" name="score.200" file="images/scores/score-200.png" />
+	<Resource type="Texture" name="score.400" file="images/scores/score-400.png" />
+	<Resource type="Texture" name="score.800" file="images/scores/score-800.png" />
+	<Resource type="Texture" name="score.1600" file="images/scores/score-1600.png" />
+</Resources>

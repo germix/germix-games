@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="11,30" frames="6" image="Bonus-Poop.png" name="" version="1.0">
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+</Sprite>

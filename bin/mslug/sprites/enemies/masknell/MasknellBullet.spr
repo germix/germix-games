@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="" frames="2" image="MasknellBullet.png" name="" version="1.0">
+  <Frame anchor="4,4"/>
+  <Frame anchor="4,4"/>
+</Sprite>

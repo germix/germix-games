@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite image="BonusEffect.png" name="BonusEffect" version="1.1">
+  <FrameList frames="6">
+    <Frame anchor="9,16" rectangle="0,0,18,16"/>
+    <Frame anchor="13,23" rectangle="18,0,26,23"/>
+    <Frame anchor="17,30" rectangle="0,23,34,30"/>
+    <Frame anchor="19,34" rectangle="44,0,38,34"/>
+    <Frame anchor="21,40" rectangle="0,53,42,40"/>
+    <Frame anchor="23,42" rectangle="42,34,46,42"/>
+  </FrameList>
+</Sprite>

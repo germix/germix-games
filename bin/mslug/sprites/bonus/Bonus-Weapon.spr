@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="11,20" count="3" image="Bonus-Weapon.png" name="" version="1.0">
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+		<Frame anchor=""/>
+	</Sprite>
+</SpriteSheet>
+
+

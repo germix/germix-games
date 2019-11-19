@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+  <Sprite anchor="35,96" count="2" image="Sarubia(Idle).png" name="Idle" version="1.0">
+  </Sprite>
+  <Sprite anchor="36,96" count="6" image="Sarubia(Driving).png" name="Driving" version="1.0">
+  </Sprite>
+  <Sprite anchor="37,95" count="6" image="Sarubia(Stopping).png" name="Stopping" version="1.0">
+  </Sprite>
+  <Sprite anchor="39,102" count="7" image="Sarubia(Preparing-Shot).png" name="PreparingShoot" version="1.0">
+  </Sprite>
+  <Sprite anchor="37,100" count="12" image="Sarubia(Shooting).png" name="Shooting" version="1.0">
+    <AttachedPoint name="Bomb" point="0,30" />
+  </Sprite>
+  <Sprite anchor="44,97" count="4" image="Sarubia(Wrecked).png" name="Wrecked" version="1.0">
+  </Sprite>
+</SpriteSheet>

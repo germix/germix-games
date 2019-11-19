@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.2" image="Coyote.png">
+    <ImageList>
+        <Image anchor="8,24" rectangle="0,0,16,24"/>
+        <Image anchor="7,23" rectangle="16,0,16,22"/>
+        <Image anchor="8,24" rectangle="32,0,16,24"/>
+        <Image anchor="7,23" rectangle="48,0,16,22"/>
+    </ImageList>
+    <SpriteList>
+        <Sprite name="Walk1" indexes="0,1"/>
+        <Sprite name="Walk2" indexes="2,3"/>
+    </SpriteList>
+</SpriteSheet>

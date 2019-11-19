@@ -1,0 +1,16 @@
+<SpriteSheet>
+	<Sprite name="energy.pow" image="../images/bonus/Bonus_Energy-pow.png" count="4" />
+	<Sprite name="energy.barrel" image="../images/bonus/Bonus_Energy-barrel.png" count="4" />
+	<Sprite name="energy.yashichi" image="../images/bonus/Bonus_Energy-yashichi.png" count="1" />
+	
+	<Sprite name="side_fighter" image="../images/bonus/Bonus_Extra-side_fighter.png" count="4" />
+	
+	<Sprite name="weapon_energy" image="../images/bonus/Bonus_Extra-weapon_energy.png" count="1" />
+	
+	<Sprite name="weapon.3way" image="../images/bonus/Bonus_Weapon-3way.png" count="4" />
+	<Sprite name="weapon.auto" image="../images/bonus/Bonus_Weapon-auto.png" count="4" />
+	<Sprite name="weapon.laser" image="../images/bonus/Bonus_Weapon-laser.png" count="4" />
+	<Sprite name="weapon.shell" image="../images/bonus/Bonus_Weapon-shell.png" count="4" />
+	<Sprite name="weapon.shotgun" image="../images/bonus/Bonus_Weapon-shotgun.png" count="4" />
+</SpriteSheet>
+

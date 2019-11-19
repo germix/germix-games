@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// EntityParameters
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#include <src/EntityParameters.h>
+
+String EntityParameters::get(const char* key, const char* defaultValue) const
+{
+	std::map<String,String>::const_iterator it = map.find(key);
+	if(it != map.end())
+	{
+		return (*it).second.c_str();
+	}
+	return defaultValue;
+}

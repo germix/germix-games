@@ -1,0 +1,19 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#include <src/Bonus.h>
+#include <src/ResourceManager.h>
+#include <src/sprites/SpriteSheet.h>
+
+Bonus::Bonus(const char* name, const char* spriteName)
+	: _name(name)
+	, _sprite(res.findSpriteSheet("bonus")->getSprite(spriteName))
+{
+}
+Bonus::~Bonus()
+{
+}

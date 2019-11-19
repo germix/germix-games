@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite name="Idle" image="Soldier-Idle.png" count="4" anchor="14,38" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="Walk" image="Soldier-Walk.png" count="12" anchor="13,41" indexes="0,1,2,3,4,5,6,7,8,9,10,11"></Sprite>
+	<Sprite name="Laugh" image="Soldier-Laugh.png" count="4" anchor="21,38" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="Bomb" image="Soldier-Bomb.png" count="17" anchor="22,42" indexes="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16">
+		<AttachedPoint name="Bomb" point="2,4" />
+	</Sprite>
+	<Sprite name="Shoot" image="Soldier-Shoot.png" count="8" anchor="35,44" indexes="0,1,2,3,4,5,6,7,6,5,4,3,2,1,0">
+		<AttachedPoint name="Bullet" point="-1,23" />
+	</Sprite>
+	<Sprite name="Dying1" image="Soldier-Dying1.png" count="11" anchor="12,37">
+		<AttachedPoint name="DeadEffect" point="2,12" />
+	</Sprite>
+	<Sprite name="Dying2" image="Soldier-Dying2.png" count="12" anchor="14,40">
+		<AttachedPoint name="DeadEffect" point="4,12" />
+	</Sprite>
+	<Sprite name="Dying3" image="Soldier-Dying3.png" count="9" anchor="14,39">
+		<AttachedPoint name="DeadEffect" point="8,12" />
+	</Sprite>
+	<Sprite name="Falling" image="Soldier-Falling.png" count="1" anchor="12,44"></Sprite>
+</SpriteSheet>

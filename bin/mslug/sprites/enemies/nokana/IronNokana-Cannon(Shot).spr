@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite image="IronNokana-Cannon(Shot).png" name="" version="1.1">
+  <FrameList frames="17">
+    <Frame anchor="46,17" rectangle="0,0,46,40"/>
+    <Frame anchor="46,17" rectangle="46,0,46,40"/>
+    <Frame anchor="52,13" rectangle="0,40,55,26"/>
+    <Frame anchor="56,23" rectangle="0,66,59,46"/>
+    <Frame anchor="63,30" rectangle="59,40,66,54"/>
+    <Frame anchor="68,31" rectangle="125,0,71,56"/>
+    <Frame anchor="70,31" rectangle="125,56,71,58"/>
+    <Frame anchor="70,29" rectangle="0,112,68,56"/>
+    <Frame anchor="70,27" rectangle="0,168,63,51"/>
+    <Frame anchor="64,26" rectangle="68,94,51,50"/>
+    <Frame anchor="65,26" rectangle="196,0,51,49"/>
+    <Frame anchor="65,27" rectangle="68,144,51,48"/>
+    <Frame anchor="65,27" rectangle="119,114,50,44"/>
+    <Frame anchor="64,27" rectangle="196,49,48,44"/>
+    <Frame anchor="63,28" rectangle="0,219,45,37"/>
+    <Frame anchor="65,28" rectangle="63,192,45,34"/>
+    <Frame anchor="66,29" rectangle="119,158,45,31"/>
+  </FrameList>
+</Sprite>

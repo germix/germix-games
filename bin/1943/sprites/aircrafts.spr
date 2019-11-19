@@ -1,0 +1,26 @@
+<SpriteSheet>
+	<Sprite name="aircraft.gray.360" image="../images/enemies/aircrafts/aircraft-16x16-gray-360.png" count="16" />
+
+	<Sprite name="aircraft.red1.360" image="../images/enemies/aircrafts/aircraft-16x16-red1-360.png" count="16" />
+	<Sprite name="aircraft.red1.immelman" image="../images/enemies/aircrafts/aircraft-16x16-red1-immelman.png" count="9" />
+	<Sprite name="aircraft.red2.360" image="../images/enemies/aircrafts/aircraft-16x16-red2-360.png" count="16" />
+	<Sprite name="aircraft.red3.360" image="../images/enemies/aircrafts/aircraft-16x16-red3-360.png" count="16" />
+	<Sprite name="aircraft.red4.360" image="../images/enemies/aircrafts/aircraft-16x16-red4-360.png" count="16" />
+	<Sprite name="aircraft.red5.360" image="../images/enemies/aircrafts/aircraft-16x16-red5-360.png" count="16" />
+	<Sprite name="aircraft.red6.360" image="../images/enemies/aircrafts/aircraft-16x16-red6-360.png" count="16" />
+	
+	<Sprite name="aircraft.green1.360" image="../images/enemies/aircrafts/aircraft-16x16-green1-360.png" count="16" />
+	<Sprite name="aircraft.green1.immelman" image="../images/enemies/aircrafts/aircraft-16x16-green1-immelman.png" count="9" />
+	<Sprite name="aircraft.green2.360" image="../images/enemies/aircrafts/aircraft-16x16-green2-360.png" count="16" />
+	<Sprite name="aircraft.green3.360" image="../images/enemies/aircrafts/aircraft-16x16-green3-360.png" count="16" />
+	<Sprite name="aircraft.green4.360" image="../images/enemies/aircrafts/aircraft-16x16-green4-360.png" count="16" />
+	<Sprite name="aircraft.green5.360" image="../images/enemies/aircrafts/aircraft-16x16-green5-360.png" count="16" />
+	<Sprite name="aircraft.green6.360" image="../images/enemies/aircrafts/aircraft-16x16-green6-360.png" count="16" />
+	
+	<Sprite name="aircraft.big.1" image="../images/enemies/aircrafts/aircraft-64x64-green1.png" count="8" />
+	
+	<Sprite name="aircraft.32x32.green1.360" image="../images/enemies/aircrafts/aircraft-32x32-green1-360.png" count="16" />
+	
+	<Sprite name="aircraft.red6.straight-s" image="../images/enemies/aircrafts/aircraft-16x16-red6-straight_s.png" count="9" />
+</SpriteSheet>
+

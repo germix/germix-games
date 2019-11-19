@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.2" image="Frog.png">
+    <ImageList>
+        <Image anchor="8,16" rectangle="0,0,16,16"/>
+        <Image anchor="8,16" rectangle="16,0,16,16"/>
+        <Image anchor="12,9" rectangle="32,0,24,11"/>
+        <Image anchor="8,22" rectangle="56,0,16,22"/>
+        <Image anchor="8,16" rectangle="72,0,16,16"/>
+        <Image anchor="8,16" rectangle="88,0,16,16"/>
+        <Image anchor="12,9" rectangle="104,0,24,11"/>
+        <Image anchor="8,22" rectangle="128,0,16,22"/>
+    </ImageList>
+    <SpriteList>
+        <Sprite name="Frog1-Idle" indexes="4,5"/>
+        <Sprite name="Frog1-Jump" indexes="6"/>
+        <Sprite name="Frog1-Dead" indexes="7"/>
+        <Sprite name="Frog2-Idle" indexes="0,1"/>
+        <Sprite name="Frog2-Jump" indexes="2"/>
+        <Sprite name="Frog2-Dead" indexes="3"/>
+    </SpriteList>
+</SpriteSheet>

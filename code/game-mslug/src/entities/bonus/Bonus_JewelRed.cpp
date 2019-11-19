@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_JewelRed | Bonus joya roja
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#include <src/entities/bonus/Bonus_JewelRed.h>
+
+const char* Bonus_JewelRed::NAME = "Jewel(Red)";
+
+Bonus_JewelRed::Bonus_JewelRed(Scene* scene, double x, double y) : Bonus_Jewel(scene, x, y, "Red")
+{
+}
+Bonus_JewelRed::~Bonus_JewelRed()
+{
+}
+

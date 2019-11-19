@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntityDefinitions version="1.0">
+    <Definition type="Bonus_Apple" class="" anchor="7,15" rectangle="0,0,14,15" image="Bonus_Apple.png"/>
+    <Definition type="Rock" class="" anchor="8,16" rectangle="0,0,16,16" image="Rock.png"/>
+    <Definition type="Bat" class="" anchor="8,15" rectangle="0,0,16,15" image="Bat.png"/>
+    <Definition type="PlatformFallDown" class="" anchor="0,0" rectangle="0,0,64,16" image="PlatformFallDown.png"/>
+    <Definition type="JumpSpring" class="" anchor="12,14" rectangle="0,0,24,14" image="JumpSpring.png"/>
+    <Definition type="Bonus_Ax" class="" anchor="8,8" rectangle="0,0,16,15" image="Bonus_Ax.png"/>
+    <Definition type="Coyote" class="" anchor="8,24" rectangle="0,0,16,24" image="Coyote.png"/>
+    <Definition type="Bonus_Pineapple" class="" anchor="6,16" rectangle="0,0,12,16" image="Bonus_Pineapple.png"/>
+    <Definition type="Frog" class="" anchor="8,16" rectangle="0,0,16,16" image="Frog.png"/>
+    <Definition type="Hero" class="" anchor="8,32" rectangle="0,0,16,32" image="Hero.png"/>
+    <Definition type="Bonus_Carrot" class="" anchor="5,16" rectangle="0,0,10,16" image="Bonus_Carrot.png"/>
+    <Definition type="PlatformMoveTo" class="" anchor="0,0" rectangle="0,0,64,16" image="PlatformMoveTo.png"/>
+    <Definition type="PlatformScrollDown" class="" anchor="0,0" rectangle="0,0,64,16" image="PlatformScrollDown.png"/>
+    <Definition type="Icicle" class="" anchor="7,24" rectangle="0,0,14,25" image="Icicle.png"/>
+    <Definition type="Bonus_Pot" class="" anchor="8,24" rectangle="0,0,16,24" image="Bonus_Pot.png"/>
+    <Definition type="Pulposus" class="" anchor="6,21" rectangle="0,0,12,21" image="Pulposus.png"/>
+    <Definition type="Bonus_Tomato" class="" anchor="7,12" rectangle="0,0,14,12" image="Bonus_Tomato.png"/>
+    <Definition type="Skull" class="" anchor="7,8" rectangle="0,0,14,16" image="Skull.png"/>
+    <Definition type="PlatformScrollUp" class="" anchor="0,0" rectangle="0,0,64,16" image="PlatformScrollUp.png"/>
+    <Definition type="Label" class="" anchor="8,16" rectangle="0,0,16,16" image="Label.png"/>
+    <Definition type="RockBall" class="" anchor="12,24" rectangle="0,0,24,24" image="RockBall.png"/>
+    <Definition type="Snail" class="" anchor="12,24" rectangle="0,0,24,24" image="Snail.png"/>
+    <Definition type="Cobra" class="" anchor="8,23" rectangle="0,0,16,23" image="Cobra.png"/>
+    <Definition type="Bird" class="" anchor="0,0" rectangle="0,0,15,15" image="Bird.png"/>
+    <Definition type="Swordfish" class="" anchor="32,10" rectangle="0,0,64,10" image="Swordfish.png"/>
+    <Definition type="PlatformFixed" class="" anchor="0,0" rectangle="0,0,64,16" image="PlatformFixed.png"/>
+    <Definition type="Egg" class="" anchor="11,16" rectangle="0,0,22,16" image="Egg.png"/>
+    <Definition type="Pooter" class="" anchor="9,24" rectangle="0,0,16,24" image="Pooter.png"/>
+    <Definition type="HiddenEgg" class="" anchor="11,16" rectangle="0,0,22,16" image="HiddenEgg.png"/>
+    <Definition type="PlatformZigZagHorz" class="" anchor="0,0" rectangle="0,0,64,16" image="PlatformZigZagHorz.png"/>
+    <Definition type="PlatformZigZagVert" class="" anchor="0,0" rectangle="0,0,64,16" image="PlatformZigZagVert.png"/>
+    <Definition type="PlatformFallUp" class="" anchor="0,0" rectangle="0,0,64,16" image="PlatformFallUp.png"/>
+    <Definition type="Spider" class="" anchor="8,16" rectangle="0,0,16,16" image="Spider.png"/>
+    <Definition type="Bonus_Banana" class="" anchor="8,14" rectangle="0,0,16,14" image="Bonus_Banana.png"/>
+    <Definition type="AxAux" class="" anchor="8,8" rectangle="0,0,16,15" image="AxAux.png"/>
+    <Definition type="WoodFire" class="" anchor="8,24" rectangle="0,0,16,24" image="WoodFire.png"/>
+    <Definition type="Monster" class="" anchor="20,78" rectangle="0,0,40,78" image="Monster.png"/>
+</EntityDefinitions>

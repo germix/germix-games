@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.2" image="Egg.png">
+    <ImageList>
+        <Image anchor="11,16" rectangle="0,0,22,16"/>
+        <Image anchor="11,16" rectangle="22,0,22,16"/>
+    </ImageList>
+    <SpriteList>
+        <Sprite name="None" indexes="0,1"/>
+    </SpriteList>
+</SpriteSheet>

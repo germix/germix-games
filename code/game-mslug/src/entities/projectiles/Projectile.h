@@ -1,0 +1,23 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Projectile | Proyectil abstracto
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Projectile_h___
+#define ___Projectile_h___
+#include <src/scene/Entity.h>
+
+class Projectile : public Entity
+{
+public:
+	Projectile(Scene* scene, double x, double y) : Entity(scene, x, y)
+	{
+	}
+	~Projectile()
+	{
+	}
+};
+
+#endif

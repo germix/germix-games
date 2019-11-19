@@ -1,0 +1,23 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Presentation
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Presentation_h___
+#define ___Presentation_h___
+
+class Graphics;
+
+class Presentation
+{
+public:
+	Presentation() {}
+	virtual ~Presentation() {}
+public:
+	virtual bool update(double dt) = 0;
+	virtual void render(Graphics* gr) = 0;
+};
+
+#endif

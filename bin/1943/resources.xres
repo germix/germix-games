@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Resources>
+	<Resource type="Font" name="font.1" file="fonts/font1.xml" />
+	<Resource type="Font" name="font.2" file="fonts/font2.xml" />
+	<Resource type="Font" name="font.3" file="fonts/font3.xml" />
+	<Resource type="Font" name="font.4" file="fonts/font4.xml" />
+	
+	<Resource type="Sound" name="shoot" file="audio/hero-shoot2.ogg" />
+	
+	<Resource type="Music" name="stage1" file="audio/music/1943 - Track01.ogg" />
+	<Resource type="Music" name="stage2" file="audio/music/1943 - Track02.ogg" />
+	<Resource type="Music" name="loser" file="audio/music/1943 - Track14.ogg" />
+	<Resource type="Music" name="winner" file="audio/music/1943 - Track18.ogg" />
+	
+	<Resource type="Texture" name="pause" file="images/pause.png" />
+	<Resource type="Texture" name="heart" file="images/heart.png" />
+	
+	<Resource type="Texture" name="attack_storm.1" file="images/attacks/Storm-1.png" />
+	<Resource type="Texture" name="attack_storm.2" file="images/attacks/Storm-2.png" />
+	<Resource type="Texture" name="attack_storm.3" file="images/attacks/Storm-3.png" />
+	<Resource type="Texture" name="attack_tsunami" file="images/attacks/Tsunami.png" />
+	
+	<Resource type="Texture" name="battleship.support.1" file="images/enemies/battleships/Battleship-01.png" />
+	<Resource type="Texture" name="battleship.support.2" file="images/enemies/battleships/Battleship-02.png" />
+	<Resource type="Texture" name="battleship.support.3" file="images/enemies/battleships/Battleship-03.png" />
+	<Resource type="Texture" name="battleship.support.4" file="images/enemies/battleships/Battleship-04.png" />
+	<Resource type="Texture" name="battleship.boss.tone" file="images/enemies/battleships/BossBattleship-Tone.png" />
+	<Resource type="Texture" name="battleship.boss.yamato" file="images/enemies/battleships/BossBattleship-Yamato.png" />
+	
+	<Resource type="Texture" name="clouds" file="images/stages/stageA-clouds.png" />
+	<Resource type="Texture" name="ocean_a" file="images/stages/stageA-ocean.png" />
+	<Resource type="Texture" name="ocean_b" file="images/stages/stageB-ocean.png" />
+	
+	<Resource type="Texture" name="health_bar.bg" file="images/health_bar_bg.png" />
+	<Resource type="Texture" name="health_bar.progress" file="images/health_bar_progress.png" />
+	
+	<Resource type="Texture" name="winner" file="images/winner.png" />
+	<Resource type="Texture" name="missiom_completed" file="images/mission_completed 2.png" />
+	
+	<Resource type="Texture" name="battleship.support.1" file="images/mission_completed 2.png" />
+	
+	<Resource type="Texture" name="tower.1" file="images/enemies/battleships/towers/tower_01.png" />
+	<Resource type="Texture" name="tower.2" file="images/enemies/battleships/towers/tower_02.png" />
+	<Resource type="Texture" name="tower.3" file="images/enemies/battleships/towers/tower_03.png" />
+	<Resource type="Texture" name="tower.4" file="images/enemies/battleships/towers/tower_04.png" />
+	<Resource type="Texture" name="tower.5" file="images/enemies/battleships/towers/tower_05.png" />
+	<Resource type="Texture" name="tower.6" file="images/enemies/battleships/towers/tower_06.png" />
+	<Resource type="Texture" name="tower.7" file="images/enemies/battleships/towers/tower_07.png" />
+	<Resource type="Texture" name="tower.8" file="images/enemies/battleships/towers/tower_08.png" />
+	
+	<Resource type="SpriteSheet" name="hero.red" file="sprites/hero-red.spr" />
+	<Resource type="SpriteSheet" name="hero.olive" file="sprites/hero-olive.spr" />
+	<Resource type="SpriteSheet" name="hero.classic" file="sprites/hero-classic.spr" />
+
+	<Resource type="SpriteSheet" name="bullets" file="sprites/bullets.spr" />
+	<Resource type="SpriteSheet" name="aircrafts" file="sprites/aircrafts.spr" />
+	<Resource type="SpriteSheet" name="explosions" file="sprites/explosions.spr" />
+	<Resource type="SpriteSheet" name="bonus" file="sprites/bonus.spr" />
+	<Resource type="SpriteSheet" name="cannons" file="sprites/cannons.spr" />
+</Resources>

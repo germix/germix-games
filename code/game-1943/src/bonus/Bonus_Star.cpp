@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_Star
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#include <src/bonus/Bonus_Star.h>
+#include <src/entities/hero/Hero.h>
+
+Bonus_Star::Bonus_Star() : Bonus("star", "weapon_energy")
+{
+}
+Bonus_Star::~Bonus_Star()
+{
+}
+void Bonus_Star::action(Scene* scene, Hero* hero)
+{
+	hero->reloadSecondaryWeapon();
+}
+

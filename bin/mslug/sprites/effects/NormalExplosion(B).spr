@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite image="NormalExplosion(B).png" name="NormalExplosion(B)" version="1.1">
+  <FrameList frames="28">
+    <Frame anchor="40,40" rectangle="0,0,80,80"/>
+    <Frame anchor="40,40" rectangle="80,0,80,80"/>
+    <Frame anchor="35,22" rectangle="160,0,73,60"/>
+    <Frame anchor="37,25" rectangle="160,60,77,64"/>
+    <Frame anchor="40,28" rectangle="0,80,80,67"/>
+    <Frame anchor="38,30" rectangle="0,147,78,69"/>
+    <Frame anchor="39,33" rectangle="80,80,79,72"/>
+    <Frame anchor="40,35" rectangle="78,152,79,75"/>
+    <Frame anchor="38,37" rectangle="159,124,75,77"/>
+    <Frame anchor="38,38" rectangle="237,0,75,78"/>
+    <Frame anchor="38,40" rectangle="312,0,75,80"/>
+    <Frame anchor="38,42" rectangle="237,78,75,82"/>
+    <Frame anchor="38,45" rectangle="312,80,74,82"/>
+    <Frame anchor="38,46" rectangle="234,160,74,83"/>
+    <Frame anchor="38,47" rectangle="308,162,74,84"/>
+    <Frame anchor="38,47" rectangle="0,216,71,83"/>
+    <Frame anchor="37,48" rectangle="0,299,67,79"/>
+    <Frame anchor="37,50" rectangle="71,227,67,81"/>
+    <Frame anchor="37,51" rectangle="157,201,67,80"/>
+    <Frame anchor="37,52" rectangle="67,308,63,81"/>
+    <Frame anchor="37,52" rectangle="130,308,58,77"/>
+    <Frame anchor="37,52" rectangle="224,243,57,77"/>
+    <Frame anchor="37,56" rectangle="188,320,56,72"/>
+    <Frame anchor="36,56" rectangle="281,246,55,68"/>
+    <Frame anchor="36,55" rectangle="244,320,54,58"/>
+    <Frame anchor="34,56" rectangle="336,246,49,56"/>
+    <Frame anchor="32,37" rectangle="0,378,47,37"/>
+    <Frame anchor="31,33" rectangle="47,389,46,33"/>
+  </FrameList>
+</Sprite>

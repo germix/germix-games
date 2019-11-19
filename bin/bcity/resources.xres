@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Resources>
+	<Resource type="Font" name="Font.Red" file="fonts/font-red.xml" />
+	<Resource type="Font" name="Font.Black" file="fonts/font-black.xml" />
+	<Resource type="Font" name="Font.White" file="fonts/font-white.xml" />
+	<Resource type="Font" name="Font.Orange" file="fonts/font-orange.xml" />
+	<Resource type="Font" name="Font.BigChars.1" file="fonts/font-big_chars(1).xml" />
+	<Resource type="Font" name="Font.BigChars.2" file="fonts/font-big_chars(2).xml" />
+	<Resource type="Font" name="Font.BigChars.3" file="fonts/font-big_chars(3).xml" />
+	<Resource type="Font" name="Font.BigChars.4" file="fonts/font-big_chars(4).xml" />
+	<Resource type="Font" name="Font.BigNumbers.1" file="fonts/font-big_numbers(1).xml" />
+	<Resource type="Font" name="Font.BigNumbers.2" file="fonts/font-big_numbers(2).xml" />
+	<Resource type="Font" name="Font.BigNumbers.3" file="fonts/font-big_numbers(3).xml" />
+	<Resource type="Font" name="Font.BigNumbers.4" file="fonts/font-big_numbers(4).xml" />
+	
+	<Resource type="Sound" name="HiScore" file="sounds/HiScore.ogg" />
+	<Resource type="Sound" name="GameOver" file="sounds/GameOver.ogg" />
+	<Resource type="Sound" name="IntroStage" file="sounds/IntroStage.ogg" />
+	<Resource type="Sound" name="Tick" file="sounds/Battle City SFX (1).ogg" />
+	<Resource type="Sound" name="HitArmoredTank" file="sounds/Battle City SFX (2).ogg" />
+	<Resource type="Sound" name="HitMetal" file="sounds/Battle City SFX (3).ogg" />
+	<Resource type="Sound" name="HitBrick" file="sounds/Battle City SFX (5).ogg" />
+	<Resource type="Sound" name="Shot" file="sounds/Battle City SFX (6).ogg" />
+	<Resource type="Sound" name="EnemeyDead" file="sounds/Battle City SFX (7).ogg" />
+	<Resource type="Sound" name="HeroDead" file="sounds/Battle City SFX (11).ogg" />
+	<Resource type="Sound" name="EnemeyDeadWithBonus" file="sounds/Battle City SFX (12).ogg" />
+	<Resource type="Sound" name="Pause" file="sounds/Battle City SFX (13).ogg" />
+	<Resource type="Sound" name="BonusActivated" file="sounds/Battle City SFX (14).ogg" />
+	<Resource type="Sound" name="NewLife" file="sounds/Battle City SFX (15).ogg" />
+	
+	<Resource type="Music" name="Background" file="sounds/Battle City SFX (16).ogg" />
+	
+	<Resource type="Texture" name="Arrows" file="images/arrows.png" />
+	<Resource type="Texture" name="BigExplosion" file="images/big-explosion.png" />
+	<Resource type="Texture" name="Bird" file="images/bird.png" />
+	<Resource type="Texture" name="Blink" file="images/blink.png" />
+	<Resource type="Texture" name="Bonus" file="images/bonus.png" />
+	<Resource type="Texture" name="Bullet" file="images/bullet.png" />
+	<Resource type="Texture" name="GameOver" file="images/game-over.png" />
+	<Resource type="Texture" name="Helmet" file="images/helmet.png" />
+	<Resource type="Texture" name="Line" file="images/line.png" />
+	<Resource type="Texture" name="PlayerIndicator1" file="images/player-indicator-1.png" />
+	<Resource type="Texture" name="PlayerIndicator2" file="images/player-indicator-2.png" />
+	<Resource type="Texture" name="Scores" file="images/scores.png" />
+	<Resource type="Texture" name="SmallExplosion" file="images/small-explosion.png" />
+	<Resource type="Texture" name="StageIndicator" file="images/stage-indicator.png" />
+	<Resource type="Texture" name="Tanks" file="images/tanks.png" />
+	<Resource type="Texture" name="TanksIndicator" file="images/tanks-indicators.png" />
+	<Resource type="Texture" name="Tiles" file="images/tiles.png" />
+	<Resource type="Texture" name="Title" file="images/title.png" />
+	<Resource type="Texture" name="Pause" file="images/pause.png" />
+	<Resource type="Texture" name="PauseBackground" file="images/pause-background.png" />
+	
+	<Resource type="Texture" name="Cursor" file="cursor16x16.png" />
+</Resources>

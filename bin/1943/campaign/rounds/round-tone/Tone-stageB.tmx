@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="512" tilewidth="8" tileheight="8">
+ <imagelayer name="Ocean" width="32" height="512">
+  <image source="stageB-ocean.png"/>
+ </imagelayer>
+ <objectgroup name="Battleship-1" width="32" height="512">
+  <object type="Battleship" x="28" y="3293" width="32" height="176">
+   <properties>
+    <property name="file" value="Battleship-01"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Battleship-2" width="32" height="512">
+  <object type="Battleship" x="173" y="2883" width="32" height="176">
+   <properties>
+    <property name="file" value="Battleship-02"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Battleship-Boss" width="32" height="512">
+  <object type="BossBattleship" x="75" y="1896" width="64" height="312">
+   <properties>
+    <property name="file" value="BossBattleship-Tone"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="AircraftGroup-1" width="32" height="512">
+  <object type="Aircraft" x="8" y="3624" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="32" y="3656" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="56" y="3688" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="138" y="3685" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="164" y="3730" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="216" y="3698" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="187" y="3644" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="121" y="3539" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="80" y="3507" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="151" y="3479" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="82" y="3457" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="159" y="3527" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="179" y="3224" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="192" y="3485" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="179" y="3192" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="179" y="3160" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="48" y="2302" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="83" y="2330" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="56" y="2358" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="82" y="2788" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="82" y="2820" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="82" y="2852" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="191" y="2766" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="182" y="2698" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="130" y="2767" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="115" y="2590" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="188" y="2626" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="151" y="2595" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="183" y="2257" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="212" y="2217" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="15" y="2255" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="169" y="2541" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="183" y="2457" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="28" y="2498" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="176" y="2136" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="125" y="2161" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="31" y="2178" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="122" y="2353" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="119" y="2547" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="68" y="2080" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="32" y="2050" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="219" y="2067" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="137" y="2105" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="130" y="1984" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="31" y="2642" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="64" y="2671" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="112" y="2681" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="98" y="1905" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="47" y="1889" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="181" y="1913" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="203" y="1980" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="125" y="1775" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="125" y="1644" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="186" y="1568" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="42" y="1562" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="171" y="1376" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="61" y="1297" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="133" y="1119" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="44" y="1012" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="green1"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="97" y="2387" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="40" y="2400" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+  <object type="Aircraft" x="73" y="2434" width="16" height="16">
+   <properties>
+    <property name="behavior" value="kamikaze"/>
+    <property name="model" value="green2"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="AircraftGroup-2" width="32" height="512">
+  <properties>
+   <property name="bonus" value="pow,shotgun,pow,3way,pow,auto,pow,shell"/>
+  </properties>
+  <object type="AircraftTroop" x="112" y="3256" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="112" y="3304" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="112" y="3280" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="AircraftGroup-3" width="32" height="512">
+  <properties>
+   <property name="bonus" value="3way"/>
+  </properties>
+  <object type="AircraftTroop" x="128" y="2991" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="128" y="2967" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+  <object type="AircraftTroop" x="128" y="2943" width="16" height="16">
+   <properties>
+    <property name="behavior" value="immelman"/>
+    <property name="model" value="red1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

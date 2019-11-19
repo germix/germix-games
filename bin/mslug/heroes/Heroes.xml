@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Heroes>
+	<Hero name="Marco" sound="/marco/Marco(Sound).ogg" face="/marco/Marco(Face).png" title="/marco/Marco(Title).png" spriteSheet="/marco/Marco(SpriteSheet).xml"/>
+	<Hero name="Fio" sound="/fio/Fio(Sound).ogg" face="/fio/Fio(Face).png" title="/fio/Fio(Title).png" spriteSheet="/fio/Fio(SpriteSheet).xml" />
+	<Hero name="Tarma" sound="/tarma/Tarma(Sound).ogg" face="/tarma/Tarma(Face).png" title="/tarma/Tarma(Title).png" spriteSheet="/tarma/Tarma(SpriteSheet).xml" />
+	<Hero name="Eri" sound="/eri/Eri(Sound).ogg" face="/eri/Eri(Face).png" title="/eri/Eri(Title).png" spriteSheet="/eri/Eri(SpriteSheet).xml" />
+</Heroes>

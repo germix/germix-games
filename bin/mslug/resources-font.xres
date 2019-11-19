@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Resources>
+	<Resource type="Font" name="Font.8x8.1" file="fonts/font-8x8-1.xml" />
+	<Resource type="Font" name="Font.8x8.2" file="fonts/font-8x8-2.xml" />
+	<Resource type="Font" name="Font.8x8.3" file="fonts/font-8x8-3.xml" />
+	<Resource type="Font" name="Font.8x16.3" file="fonts/font-8x16-3.xml" />
+	<Resource type="Font" name="Font.16x16.1" file="fonts/font-16x16-1.xml" />
+	<Resource type="Font" name="Font.16x16.2" file="fonts/font-16x16-2.xml" />
+	<Resource type="Font" name="Font.16x16.3" file="fonts/font-16x16-3.xml" />
+	<Resource type="Font" name="Font.25x25" file="fonts/font-25x25.xml" />
+	<Resource type="Font" name="Font.Borders" file="fonts/font-borders.xml" />
+	<Resource type="Font" name="Font.Time" file="fonts/font-numbers-time.xml" />
+	<Resource type="Font" name="Score1" file="fonts/font-numbers-score1.xml" />
+	<Resource type="Font" name="Score2" file="fonts/font-numbers-score2.xml" />
+</Resources>

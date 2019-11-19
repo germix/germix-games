@@ -1,0 +1,27 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// HeroScore
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#include <src/entities/hero/HeroScore.h>
+
+HeroScore::HeroScore() : value(0)
+{
+}
+HeroScore::~HeroScore()
+{
+}
+void HeroScore::reset()
+{
+	value = 0;
+}
+int  HeroScore::getScore() const
+{
+	return value;
+}
+void HeroScore::addScore(int s)
+{
+	value += s;
+}

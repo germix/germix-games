@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.0" name="Marco">
+	<!--Sprites de piernas-->
+	<Sprite name="legs-idle" image="sprites/Marco-Legs(Idle).png" count="1" anchor="11,16"></Sprite>
+	<Sprite name="legs-jump" image="sprites/Marco-Legs(Jump).png" count="6" anchor="10,24"></Sprite>
+	<Sprite name="legs-walk" image="sprites/Marco-Legs(Walk).png" count="16" anchor="16,20"></Sprite>
+	
+	<!--Sprites de tórax-->
+	<Sprite name="thorax(P)-jump" image="sprites/Marco(P)-Thorax-Jump.png" count="6" anchor="16,22"></Sprite>
+	<Sprite name="thorax(H)-jump" image="sprites/Marco(H)-Thorax-Jump.png" count="6" anchor="14,20"></Sprite>
+	
+	<Sprite name="thorax(P)-idle(0)" image="sprites/Marco(P)-Thorax-Idle(0).png" count="4" anchor="11,22" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="thorax(H)-idle(0)" image="sprites/Marco(H)-Thorax-Idle(0).png" count="4" anchor="11,22" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="thorax(P)-idle(30)" image="sprites/Marco(P)-Thorax-Idle(30).png" count="1" anchor="12,22" indexes=""></Sprite>
+	<Sprite name="thorax(H)-idle(30)" image="sprites/Marco(H)-Thorax-Idle(30).png" count="1" anchor="12,22" indexes=""></Sprite>
+	<Sprite name="thorax(P)-idle(60)" image="sprites/Marco(P)-Thorax-Idle(60).png" count="1" anchor="12,23" indexes=""></Sprite>
+	<Sprite name="thorax(H)-idle(60)" image="sprites/Marco(H)-Thorax-Idle(60).png" count="1" anchor="12,27" indexes=""></Sprite>
+	<Sprite name="thorax(P)-idle(90)" image="sprites/Marco(P)-Thorax-Idle(90).png" count="4" anchor="11,24" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="thorax(H)-idle(90)" image="sprites/Marco(H)-Thorax-Idle(90).png" count="4" anchor="11,31" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="thorax(P)-idle(down)" image="sprites/Marco(P)-Thorax-Idle(Down).png" count="1" anchor="9,19" indexes=""></Sprite>
+	<Sprite name="thorax(H)-idle(down)" image="sprites/Marco(H)-Thorax-Idle(Down).png" count="1" anchor="12,19" indexes=""></Sprite>
+	
+	<Sprite name="thorax(P)-bomb" image="sprites/Marco(P)-Thorax-Bomb.png" count="6" anchor="12,23" indexes=""></Sprite>
+	<Sprite name="thorax(H)-bomb" image="sprites/Marco(H)-Thorax-Bomb.png" count="6" anchor="12,23" indexes=""></Sprite>
+	<Sprite name="thorax(P)-knife1" image="sprites/Marco(P)-Thorax-Knife1.png" count="6" anchor="23,39" indexes="0,1,2,3,4,5,4,1,0"></Sprite>
+	<Sprite name="thorax(P)-knife2" image="sprites/Marco(P)-Thorax-Knife2.png" count="6" anchor="16,26" indexes="0,1,2,3,4,4,4,5,4,3,0"></Sprite>
+	<Sprite name="thorax(H)-knife1" image="sprites/Marco(H)-Thorax-Knife1.png" count="6" anchor="32,39" indexes="0,1,2,3,4,5,4,1,0"></Sprite>
+	<Sprite name="thorax(H)-knife2" image="sprites/Marco(H)-Thorax-Knife2.png" count="6" anchor="21,26" indexes="0,1,2,3,4,4,4,5,4,3,0"></Sprite>
+	
+	<!--Sprites de agachado-->
+	<Sprite name="crouch(P)" image="sprites/Marco(P)-Crouch.png" count="3" anchor="13,42" indexes=""></Sprite>
+	<Sprite name="crouch(H)" image="sprites/Marco(H)-Crouch.png" count="3" anchor="12,41" indexes=""></Sprite>
+	<Sprite name="standup(P)" image="sprites/Marco(P)-Crouch.png" count="3" anchor="13,42" indexes="1,0"></Sprite>
+	<Sprite name="standup(H)" image="sprites/Marco(H)-Crouch.png" count="3" anchor="12,41" indexes="1,0"></Sprite>
+	
+	<Sprite name="crouched(P)-bomb" image="sprites/Marco(P)-Crouched-Bomb.png" count="6" anchor="19,28" indexes=""></Sprite>
+	<Sprite name="crouched(H)-bomb" image="sprites/Marco(H)-Crouched-Bomb.png" count="6" anchor="21,36" indexes=""></Sprite>
+	
+	<Sprite name="crouched(P)-knife1" image="sprites/Marco(P)-Crouched-Knife1.png" count="7" anchor="18,35" indexes="0,1,2,3,4,5,6,5,0,1,2"></Sprite>
+	<Sprite name="crouched(P)-knife2" image="sprites/Marco(P)-Crouched-Knife2.png" count="7" anchor="18,33" indexes="0,1,2,3,4,5,6,4,3,2,1"></Sprite>
+	<Sprite name="crouched(H)-knife1" image="sprites/Marco(H)-Crouched-Knife1.png" count="7" anchor="20,36" indexes="0,1,2,3,4,5,6,5,0,1,2"></Sprite>
+	<Sprite name="crouched(H)-knife2" image="sprites/Marco(H)-Crouched-Knife2.png" count="7" anchor="32,36" indexes="0,1,2,3,4,5,6,4,3,2,1"></Sprite>
+	
+	<Sprite name="crouched(P)-walk" image="sprites/Marco(P)-Crouched-Walk.png" count="7" anchor="13,24" indexes=""></Sprite>
+	<Sprite name="crouched(H)-walk" image="sprites/Marco(H)-Crouched-Walk.png" count="7" anchor="13,24" indexes=""></Sprite>
+	
+	<Sprite name="crouched(P)-idle1" image="sprites/Marco(P)-Crouched-Idle1.png" count="4" anchor="14,24" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="crouched(H)-idle1" image="sprites/Marco(H)-Crouched-Idle1.png" count="4" anchor="14,24" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="crouched(P)-idle2" image="sprites/Marco(P)-Crouched-Idle2.png" count="4" anchor="14,27" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="crouched(H)-idle2" image="sprites/Marco(H)-Crouched-Idle2.png" count="4" anchor="14,27" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="crouched(P)-idle3" image="sprites/Marco(P)-Crouched-Idle3.png" count="4" anchor="18,26" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="crouched(H)-idle3" image="sprites/Marco(H)-Crouched-Idle3.png" count="4" anchor="20,36" indexes="0,1,2,3,2,1"></Sprite>
+	
+	<!--Sprites de disparo (espesíficos de cada arma)-->
+	<Sprite name="thorax(P)-shoot(0)" image="sprites/p/Marco(P)-Thorax-Shoot(0).png" count="10" anchor="12,23" indexes="">
+		<AttachedPoint name="shoot" point="44,12" />
+	</Sprite>
+	<Sprite name="thorax(P)-shoot(90)" image="sprites/p/Marco(P)-Thorax-Shoot(90).png" count="10" anchor="12,64" indexes="">
+		<AttachedPoint name="shoot" point="12,14" />
+	</Sprite>
+	<Sprite name="thorax(P)-shoot(down)" image="sprites/p/Marco(P)-Thorax-Shoot(Down).png" count="6" anchor="9,19" indexes="">
+		<AttachedPoint name="shoot" point="12,42" />
+	</Sprite>
+	
+	<Sprite name="thorax(H)-shoot(0)" image="sprites/h/Marco(H)-Thorax-Shoot(0).png" count="4" anchor="13,21" indexes="">
+		<AttachedPoint name="shoot" point="61,16" />
+	</Sprite>
+	<Sprite name="thorax(H)-shoot(30)" image="sprites/h/Marco(H)-Thorax-Shoot(30).png" count="2" anchor="12,49" indexes="">
+		<AttachedPoint name="shoot" point="48,21" />
+	</Sprite>
+	<Sprite name="thorax(H)-shoot(60)" image="sprites/h/Marco(H)-Thorax-Shoot(60).png" count="2" anchor="12,58" indexes="">
+		<AttachedPoint name="shoot" point="39,8" />
+	</Sprite>
+	<Sprite name="thorax(H)-shoot(90)" image="sprites/h/Marco(H)-Thorax-Shoot(90).png" count="4" anchor="11,70" indexes="">
+		<AttachedPoint name="shoot" point="9,2" />
+	</Sprite>
+	<Sprite name="thorax(H)-shoot(down)" image="sprites/h/Marco(H)-Thorax-Shoot(Down).png" count="4" anchor="12,19" indexes="">
+		<AttachedPoint name="shoot" point="11,62" />
+	</Sprite>
+	
+	<Sprite name="thorax(R)-shoot(0)" image="sprites/r/Marco(R)-Thorax-Shoot(0).png" count="10" anchor="14,22" indexes="">
+		<AttachedPoint name="shoot" point="41,23" />
+	</Sprite>
+	<Sprite name="thorax(R)-shoot(90)" image="sprites/r/Marco(R)-Thorax-Shoot(90).png" count="10" anchor="11,47" indexes="">
+		<AttachedPoint name="shoot" point="12,0" />
+	</Sprite>
+	<Sprite name="thorax(R)-shoot(down)" image="sprites/r/Marco(R)-Thorax-Shoot(Down).png" count="4" anchor="12,19" indexes="">
+		<AttachedPoint name="shoot" point="9,39" />
+	</Sprite>
+	
+	<Sprite name="thorax(S)-shoot(0)" image="sprites/s/Marco(S)-Thorax-Shoot(0).png" count="6" anchor="13,23" indexes="">
+		<AttachedPoint name="shoot" point="38,22" />
+	</Sprite>
+	<Sprite name="thorax(S)-shoot(90)" image="sprites/s/Marco(S)-Thorax-Shoot(90).png" count="6" anchor="18,47" indexes="">
+		<AttachedPoint name="shoot" point="19,0" />
+	</Sprite>
+	<Sprite name="thorax(S)-shoot(down)" image="sprites/s/Marco(S)-Thorax-Shoot(Down).png" count="6" anchor="12,19" indexes="">
+		<AttachedPoint name="shoot" point="9,39" />
+	</Sprite>
+	
+	<Sprite name="crouched(P)-shoot" image="sprites/p/Marco(P)-Crouched-Shoot.png" count="10" anchor="14,29" indexes="">
+		<AttachedPoint name="shoot" point="43,12" />
+	</Sprite>
+	<Sprite name="crouched(H)-shoot" image="sprites/h/Marco(H)-Crouched-Shoot.png" count="4" anchor="16,28" indexes="">
+		<AttachedPoint name="shoot" point="68,9" />
+	</Sprite>
+	<Sprite name="crouched(R)-shoot" image="sprites/r/Marco(R)-Crouched-Shoot.png" count="5" anchor="17,31" indexes="">
+		<AttachedPoint name="shoot" point="44,14" />
+	</Sprite>
+	<Sprite name="crouched(S)-shoot" image="sprites/s/Marco(S)-Crouched-Shoot.png" count="7" anchor="18,33" indexes="0,1,2,3,4,5,6,0">
+		<AttachedPoint name="shoot" point="45,16" />
+	</Sprite>
+	
+	<!-- Sprites generales -->
+	<Sprite name="dying" image="sprites/Marco-Dying.png" count="10" anchor="53,46" indexes="0,1,2,3,4,5,6,7,8,9,8" ></Sprite>
+	<Sprite name="winner(P)" image="sprites/Marco(P)-Winner.png" count="4" anchor="19,43" indexes="0,1,2,3,2,1" ></Sprite>
+	<Sprite name="winner(H)" image="sprites/Marco(H)-Winner.png" count="4" anchor="19,39" indexes="0,1,2,3,2,1" ></Sprite>
+</SpriteSheet>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="ghost-pink" color="#ff55ff"/>
+ <objecttype name="ghost-orange" color="#ffaa00"/>
+ <objecttype name="ghost-cyan" color="#00ffff"/>
+ <objecttype name="ghost-red" color="#ff0000"/>
+ <objecttype name="pacman" color="#ffff00"/>
+</objecttypes>

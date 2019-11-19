@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+  <Sprite anchor="31,3" count="2" image="Bullet(R)-Horz-v1.png" name="Horz" version="1.0">
+  </Sprite>
+  <Sprite anchor="3,18" count="2" image="Bullet(R)-Vert-v1.png" name="Vert" version="1.0">
+  </Sprite>
+  <Sprite anchor="30,7" count="2" image="Bullet(R)-Horz-v2.png" name="Horz.2" version="1.0">
+  </Sprite>
+  <Sprite anchor="7,28" count="2" image="Bullet(R)-Vert-v2.png" name="Vert.2" version="1.0">
+  </Sprite>
+</SpriteSheet>

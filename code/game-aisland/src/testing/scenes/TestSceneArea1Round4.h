@@ -1,0 +1,23 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// TestSceneArea1Round4
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___TestSceneArea1Round4_h___
+#define ___TestSceneArea1Round4_h___
+#include <src/testing/TestScene.h>
+
+class TestSceneArea1Round4 : public TestScene
+{
+public:
+	TestSceneArea1Round4() : TestScene(1, 4)
+	{
+	}
+	~TestSceneArea1Round4()
+	{
+	}
+};
+
+#endif

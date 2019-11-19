@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bonus_Gamepad
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___Bonus_Gamepad_h___
+#define ___Bonus_Gamepad_h___
+#include <src/entities/Bonus.h>
+
+class Bonus_Gamepad : public Bonus
+{
+public:
+	Bonus_Gamepad(Scene* s, double x, double y);
+	~Bonus_Gamepad();
+public:
+	void activated(Hero* h);
+};
+
+#endif

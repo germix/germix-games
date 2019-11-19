@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.0" name="Eri">
+	<!--Sprites de piernas-->
+	<Sprite name="legs-idle" image="sprites/Eri-Legs(Idle).png" count="1" anchor="9,24"></Sprite>
+	<Sprite name="legs-jump" image="sprites/Eri-Legs(Jump).png" count="6" anchor="11,31"></Sprite>
+	<Sprite name="legs-walk" image="sprites/Eri-Legs(Walk).png" count="16" anchor="15,26"></Sprite>
+	
+	<!--Sprites de tórax-->
+	<Sprite name="thorax(P)-jump" image="sprites/Eri(P)-Thorax-Jump.png" count="6" anchor="18,24"></Sprite>
+	<Sprite name="thorax(H)-jump" image="sprites/Eri(H)-Thorax-Jump.png" count="6" anchor="18,23"></Sprite>
+	
+	<Sprite name="thorax(P)-idle(0)" image="sprites/Eri(P)-Thorax-Idle(0).png" count="4" anchor="13,22" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="thorax(H)-idle(0)" image="sprites/Eri(H)-Thorax-Idle(0).png" count="4" anchor="13,22" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="thorax(P)-idle(30)" image="sprites/Eri(P)-Thorax-Idle(30).png" count="1" anchor="13,22" indexes=""></Sprite>
+	<Sprite name="thorax(H)-idle(30)" image="sprites/Eri(H)-Thorax-Idle(30).png" count="1" anchor="13,25" indexes=""></Sprite>
+	<Sprite name="thorax(P)-idle(60)" image="sprites/Eri(P)-Thorax-Idle(60).png" count="1" anchor="11,24" indexes=""></Sprite>
+	<Sprite name="thorax(H)-idle(60)" image="sprites/Eri(H)-Thorax-Idle(60).png" count="1" anchor="11,28" indexes=""></Sprite>
+	<Sprite name="thorax(P)-idle(90)" image="sprites/Eri(P)-Thorax-Idle(90).png" count="4" anchor="12,24" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="thorax(H)-idle(90)" image="sprites/Eri(H)-Thorax-Idle(90).png" count="4" anchor="12,31" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="thorax(P)-idle(down)" image="sprites/Eri(P)-Thorax-Idle(Down).png" count="1" anchor="9,28" indexes=""></Sprite>
+	<Sprite name="thorax(H)-idle(down)" image="sprites/Eri(H)-Thorax-Idle(Down).png" count="1" anchor="14,27" indexes=""></Sprite>
+	
+	<Sprite name="thorax(P)-bomb" image="sprites/Eri(P)-Thorax-Bomb.png" count="6" anchor="13,23" indexes=""></Sprite>
+	<Sprite name="thorax(H)-bomb" image="sprites/Eri(H)-Thorax-Bomb.png" count="6" anchor="13,23" indexes=""></Sprite>
+	<Sprite name="thorax(P)-knife1" image="sprites/Eri(P)-Thorax-Knife1.png" count="6" anchor="16,32" indexes="0,1,2,3,4,5,4,1,0"></Sprite>
+	<Sprite name="thorax(P)-knife2" image="sprites/Eri(P)-Thorax-Knife2.png" count="9" anchor="18,25" indexes="0,1,2,3,4,5,6,7,8,2,1,0"></Sprite>
+	<Sprite name="thorax(H)-knife1" image="sprites/Eri(H)-Thorax-Knife1.png" count="6" anchor="20,32" indexes="0,1,2,3,4,5,4,1,0"></Sprite>
+	<Sprite name="thorax(H)-knife2" image="sprites/Eri(H)-Thorax-Knife2.png" count="9" anchor="18,25" indexes="0,1,2,3,4,5,6,7,8,2,1,0"></Sprite>
+	
+	<!--Sprites de agachado-->
+	<Sprite name="crouch(P)" image="sprites/Eri(P)-Crouch.png" count="3" anchor="11,40" indexes=""></Sprite>
+	<Sprite name="crouch(H)" image="sprites/Eri(H)-Crouch.png" count="3" anchor="11,40" indexes=""></Sprite>
+	<Sprite name="standup(P)" image="sprites/Eri(P)-Crouch.png" count="3" anchor="11,40" indexes="1,0"></Sprite>
+	<Sprite name="standup(H)" image="sprites/Eri(H)-Crouch.png" count="3" anchor="11,40" indexes="1,0"></Sprite>
+	
+	<Sprite name="crouched(P)-bomb" image="sprites/Eri(P)-Crouched-Bomb.png" count="6" anchor="15,28" indexes=""></Sprite>
+	<Sprite name="crouched(H)-bomb" image="sprites/Eri(H)-Crouched-Bomb.png" count="6" anchor="15,37" indexes=""></Sprite>
+	
+	<Sprite name="crouched(P)-knife1" image="sprites/Eri(P)-Crouched-Knife1.png" count="7" anchor="18,40" indexes="0,1,2,3,4,5,6,5,0,1"></Sprite>
+	<Sprite name="crouched(P)-knife2" image="sprites/Eri(P)-Crouched-Knife2.png" count="9" anchor="18,32" indexes="0,1,2,3,4,5,6,7,8,2,1,0"></Sprite>
+	<Sprite name="crouched(H)-knife1" image="sprites/Eri(H)-Crouched-Knife2.png" count="9" anchor="19,32" indexes="0,1,2,3,4,5,6,7,8,1,0"></Sprite>		<!-- Repetimos animación por falta de sprites -->
+	<Sprite name="crouched(H)-knife2" image="sprites/Eri(H)-Crouched-Knife2.png" count="9" anchor="19,32" indexes="0,1,2,3,4,5,6,7,8,1,0"></Sprite>
+	
+	<Sprite name="crouched(P)-walk" image="sprites/Eri(P)-Crouched-Walk.png" count="7" anchor="14,26" indexes=""></Sprite>
+	<Sprite name="crouched(H)-walk" image="sprites/Eri(H)-Crouched-Walk.png" count="7" anchor="14,26" indexes=""></Sprite>
+	
+	<Sprite name="crouched(P)-idle1" image="sprites/Eri(P)-Crouched-Idle1.png" count="4" anchor="14,26" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="crouched(H)-idle1" image="sprites/Eri(H)-Crouched-Idle1.png" count="4" anchor="14,26" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="crouched(P)-idle2" image="sprites/Eri(P)-Crouched-Idle2.png" count="4" anchor="12,28" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="crouched(H)-idle2" image="sprites/Eri(H)-Crouched-Idle2.png" count="4" anchor="15,28" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="crouched(P)-idle3" image="sprites/Eri(P)-Crouched-Idle3.png" count="4" anchor="15,28" indexes="0,1,2,3,2,1"></Sprite>
+	<Sprite name="crouched(H)-idle3" image="sprites/Eri(H)-Crouched-Idle3.png" count="4" anchor="15,38" indexes="0,1,2,3,2,1"></Sprite>
+	
+	<!--Sprites de disparo (espesíficos de cada arma)-->
+	<Sprite name="thorax(P)-shoot(0)" image="sprites/p/Eri(P)-Thorax-Shoot(0).png" count="10" anchor="12,22" indexes="">
+		<AttachedPoint name="shoot" point="46,11" />
+	</Sprite>
+	<Sprite name="thorax(P)-shoot(90)" image="sprites/p/Eri(P)-Thorax-Shoot(90).png" count="10" anchor="14,64" indexes="">
+		<AttachedPoint name="shoot" point="15,17" />
+	</Sprite>
+	<Sprite name="thorax(P)-shoot(down)" image="sprites/p/Eri(P)-Thorax-Shoot(Down).png" count="6" anchor="9,27" indexes="">
+		<AttachedPoint name="shoot" point="12,50" />
+	</Sprite>
+	
+	<Sprite name="thorax(H)-shoot(0)" image="sprites/h/Eri(H)-Thorax-Shoot(0).png" count="4" anchor="12,22" indexes="">
+		<AttachedPoint name="shoot" point="63,17" />
+	</Sprite>
+	<Sprite name="thorax(H)-shoot(30)" image="sprites/h/Eri(H)-Thorax-Shoot(30).png" count="2" anchor="12,55" indexes="">
+		<AttachedPoint name="shoot" point="46,25" />
+	</Sprite>
+	<Sprite name="thorax(H)-shoot(60)" image="sprites/h/Eri(H)-Thorax-Shoot(60).png" count="2" anchor="10,58" indexes="">
+		<AttachedPoint name="shoot" point="38,8" />
+	</Sprite>
+	<Sprite name="thorax(H)-shoot(90)" image="sprites/h/Eri(H)-Thorax-Shoot(90).png" count="4" anchor="14,70" indexes="">
+		<AttachedPoint name="shoot" point="16,3" />
+	</Sprite>
+	<Sprite name="thorax(H)-shoot(down)" image="sprites/h/Eri(H)-Thorax-Shoot(Down).png" count="4" anchor="15,27" indexes="">
+		<AttachedPoint name="shoot" point="11,69" />
+	</Sprite>
+	
+	<Sprite name="thorax(R)-shoot(0)" image="sprites/r/Eri(R)-Thorax-Shoot(0).png" count="10" anchor="13,23" indexes="">
+		<AttachedPoint name="shoot" point="43,20" />
+	</Sprite>
+	<Sprite name="thorax(R)-shoot(90)" image="sprites/r/Eri(R)-Thorax-Shoot(90).png" count="10" anchor="14,45" indexes="">
+		<AttachedPoint name="shoot" point="16,0" />
+	</Sprite>
+	<Sprite name="thorax(R)-shoot(down)" image="sprites/r/Eri(R)-Thorax-Shoot(Down).png" count="4" anchor="15,27" indexes="">
+		<AttachedPoint name="shoot" point="12,47" />
+	</Sprite>
+	
+	<Sprite name="thorax(S)-shoot(0)" image="sprites/s/Eri(S)-Thorax-Shoot(0).png" count="6" anchor="14,23" indexes="">
+		<AttachedPoint name="shoot" point="44,20" />
+	</Sprite>
+	<Sprite name="thorax(S)-shoot(90)" image="sprites/s/Eri(S)-Thorax-Shoot(90).png" count="6" anchor="14,45" indexes="">
+		<AttachedPoint name="shoot" point="16,-1" />
+	</Sprite>
+	<Sprite name="thorax(S)-shoot(down)" image="sprites/s/Eri(S)-Thorax-Shoot(Down).png" count="6" anchor="15,27" indexes="">
+		<AttachedPoint name="shoot" point="12,47" />
+	</Sprite>
+	
+	<Sprite name="crouched(P)-shoot" image="sprites/p/Eri(P)-Crouched-Shoot.png" count="10" anchor="13,29" indexes="">
+		<AttachedPoint name="shoot" point="45,11" />
+	</Sprite>
+	<Sprite name="crouched(H)-shoot" image="sprites/h/Eri(H)-Crouched-Shoot.png" count="4" anchor="12,28" indexes="">
+		<AttachedPoint name="shoot" point="70,9" />
+	</Sprite>
+	<Sprite name="crouched(R)-shoot" image="sprites/r/Eri(R)-Crouched-Shoot.png" count="6" anchor="17,30" indexes="0,1,2,3,4,5,4,3,2,1,0">
+		<AttachedPoint name="shoot" point="45,13" />
+	</Sprite>
+	<Sprite name="crouched(S)-shoot" image="sprites/s/Eri(S)-Crouched-Shoot.png" count="10" anchor="17,30" indexes="0,1,2,3,4,5,6,7,8,9,8">
+		<AttachedPoint name="shoot" point="45,13" />
+	</Sprite>
+	
+	<!-- Sprites generales -->
+	<Sprite name="dying" image="sprites/Eri-Dying.png" count="21" anchor="20,39" indexes="" ></Sprite>
+	<Sprite name="winner(P)" image="sprites/Eri-Winner.png" count="6" anchor="15,51" indexes="0,0,1,1,2,2,3,3,2,2,4,4,5,5" ></Sprite>
+	<Sprite name="winner(H)" image="sprites/Eri-Winner.png" count="6" anchor="15,51" indexes="0,0,1,1,2,2,3,3,2,2,4,4,5,5" ></Sprite>
+</SpriteSheet>

@@ -1,0 +1,19 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// HeroBullet_Shell
+//
+// Germán Martínez
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef ___HeroBullet_Shell_h___
+#define ___HeroBullet_Shell_h___
+#include <src/entities/hero/bullets/HeroBullet.h>
+
+class HeroBullet_Shell : public HeroBullet
+{
+public:
+	HeroBullet_Shell(Scene* s, double x, double y, double angle);
+	~HeroBullet_Shell();
+};
+
+#endif

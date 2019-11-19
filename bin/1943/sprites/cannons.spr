@@ -1,0 +1,21 @@
+<SpriteSheet>
+	<Sprite name="cannon.tank" image="../images/cannons/tank.png" count="3" />
+	
+	<Sprite name="cannon.16x16.1" image="../images/cannons/cannon16x16_1.png" count="16" />
+	<Sprite name="cannon.16x16.2" image="../images/cannons/cannon16x16_2.png" count="16" />
+	<Sprite name="cannon.16x16.3" image="../images/cannons/cannon16x16_3.png" count="16" />
+	<Sprite name="cannon.16x16.4" image="../images/cannons/cannon16x16_4.png" count="16" />
+	<Sprite name="cannon.16x16.5" image="../images/cannons/cannon16x16_5.png" count="16" />
+	<Sprite name="cannon.16x16.6" image="../images/cannons/cannon16x16_6.png" count="16" />
+	<Sprite name="cannon.16x16.7" image="../images/cannons/cannon16x16_7.png" count="16" />
+	<Sprite name="cannon.16x16.8" image="../images/cannons/cannon16x16_8.png" count="16" />
+	
+	<Sprite name="cannon.32x32.1" image="../images/cannons/cannon32x32_1.png" count="16" />
+	<Sprite name="cannon.32x32.2" image="../images/cannons/cannon32x32_2.png" count="16" />
+	<Sprite name="cannon.32x32.3" image="../images/cannons/cannon32x32_3.png" count="16" />
+	<Sprite name="cannon.32x32.4" image="../images/cannons/cannon32x32_4.png" count="16" />
+	<Sprite name="cannon.32x32.5" image="../images/cannons/cannon32x32_5.png" count="16" />
+	<Sprite name="cannon.32x32.6" image="../images/cannons/cannon32x32_6.png" count="16" />
+	
+	
+</SpriteSheet>

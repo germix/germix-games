@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite image="MosqueRocketSmoke.png" name="" version="1.1">
+  <FrameList frames="32">
+    <Frame anchor="17,15" rectangle="0,0,36,22"/>
+    <Frame anchor="19,18" rectangle="0,22,37,28"/>
+    <Frame anchor="23,25" rectangle="37,0,46,37"/>
+    <Frame anchor="25,26" rectangle="83,0,43,39"/>
+    <Frame anchor="29,27" rectangle="0,50,46,40"/>
+    <Frame anchor="34,30" rectangle="46,39,50,44"/>
+    <Frame anchor="35,30" rectangle="46,83,50,44"/>
+    <Frame anchor="36,30" rectangle="126,0,51,44"/>
+    <Frame anchor="37,31" rectangle="96,44,50,44"/>
+    <Frame anchor="37,31" rectangle="177,0,48,44"/>
+    <Frame anchor="38,31" rectangle="146,44,46,44"/>
+    <Frame anchor="39,31" rectangle="192,44,46,44"/>
+    <Frame anchor="39,31" rectangle="0,90,45,42"/>
+    <Frame anchor="39,30" rectangle="0,132,45,40"/>
+    <Frame anchor="39,29" rectangle="0,172,45,37"/>
+    <Frame anchor="38,29" rectangle="45,127,45,36"/>
+    <Frame anchor="38,28" rectangle="96,88,45,33"/>
+    <Frame anchor="38,27" rectangle="45,163,44,31"/>
+    <Frame anchor="38,26" rectangle="0,209,44,29"/>
+    <Frame anchor="38,24" rectangle="90,127,44,27"/>
+    <Frame anchor="38,23" rectangle="141,88,44,27"/>
+    <Frame anchor="38,22" rectangle="45,194,44,26"/>
+    <Frame anchor="38,21" rectangle="90,154,44,25"/>
+    <Frame anchor="38,19" rectangle="141,115,44,22"/>
+    <Frame anchor="38,18" rectangle="44,220,44,21"/>
+    <Frame anchor="38,16" rectangle="89,179,44,19"/>
+    <Frame anchor="38,14" rectangle="0,238,43,17"/>
+    <Frame anchor="38,13" rectangle="185,88,43,16"/>
+    <Frame anchor="38,12" rectangle="134,137,42,16"/>
+    <Frame anchor="39,11" rectangle="43,241,42,15"/>
+    <Frame anchor="38,11" rectangle="134,153,40,14"/>
+    <Frame anchor="38,10" rectangle="89,198,35,10"/>
+  </FrameList>
+</Sprite>

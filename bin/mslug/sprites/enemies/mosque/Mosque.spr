@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SpriteSheet version="1.0">
+	<Sprite anchor="0,0" count="21" image="Mosque (Left Tower).png" name="LeftTower" version="1.0">
+	</Sprite>
+	<Sprite anchor="0,0" count="21" image="Mosque (Right Tower).png" name="RightTower" version="1.0">
+	</Sprite>
+	<Sprite anchor="0,0" count="21" image="Mosque (Center Tower).png" name="CenterTower" version="1.0">
+	</Sprite>
+	<Sprite anchor="0,0" count="16" image="Mosque (Tower Doors).png" name="TowerDoors" version="1.0">
+	</Sprite>
+	<Sprite anchor="0,0" count="12" image="Mosque (Launcher Operator).png" name="TowerOperator" version="1.0">
+	</Sprite>
+</SpriteSheet>

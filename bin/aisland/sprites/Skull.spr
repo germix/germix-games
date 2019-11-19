@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.2" image="Skull.png">
+    <ImageList>
+        <Image anchor="10,11" rectangle="0,0,20,20"/>
+        <Image anchor="7,13" rectangle="20,0,14,24"/>
+        <Image anchor="12,9" rectangle="34,0,24,16"/>
+        <Image anchor="10,11" rectangle="58,0,20,20"/>
+        <Image anchor="7,9" rectangle="78,0,14,16"/>
+    </ImageList>
+    <SpriteList>
+        <Sprite name="Idle" indexes="1,3,2,0"/>
+        <Sprite name="Dead" indexes="4"/>
+    </SpriteList>
+</SpriteSheet>

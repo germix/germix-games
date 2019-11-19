@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="14,32" frames="10" image="Bonus-Chicken.png" version="1.0">
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+	<Frame anchor=""/>
+</Sprite>

@@ -1,0 +1,18 @@
+<SpriteSheet>
+	<Sprite name="hero.3way" image="../images/bullets/hero_bullet-3way.png" count="1" />
+	<Sprite name="hero.3way.left" image="../images/bullets/hero_bullet-3way-left.png" count="1" />
+	<Sprite name="hero.3way.right" image="../images/bullets/hero_bullet-3way-right.png" count="1" />
+	<Sprite name="hero.auto" image="../images/bullets/hero_bullet-auto.png" count="1" />
+	<Sprite name="hero.laser" image="../images/bullets/hero_bullet-laser.png" count="1" />
+	<Sprite name="hero.normal" image="../images/bullets/hero_bullet-normal.png" count="1" />
+	<Sprite name="hero.shell" image="../images/bullets/hero_bullet-shell.png" count="1" />
+	<Sprite name="hero.shotgun.basic1" image="../images/bullets/hero_bullet-shotgun_basic-1.png" count="1" />
+	<Sprite name="hero.shotgun.basic2" image="../images/bullets/hero_bullet-shotgun_basic-2.png" count="2" />
+	<Sprite name="hero.shotgun.strong1" image="../images/bullets/hero_bullet-shotgun_strong-1.png" count="1" />
+	<Sprite name="hero.shotgun.strong2" image="../images/bullets/hero_bullet-shotgun_strong-2.png" count="2" />
+	
+	<Sprite name="enemy.normal" image="../images/bullets/enemy_bullet-normal.png" count="1" />
+	<Sprite name="enemy.missile.1" image="../images/bullets/enemy_bullet-missile-1.png" count="16" />
+	<Sprite name="enemy.missile.2" image="../images/bullets/enemy_bullet-missile-2.png" count="16" />
+	<Sprite name="enemy.missile.big" image="../images/bullets/enemy_bullet-missile-big.png" count="16" />
+</SpriteSheet>

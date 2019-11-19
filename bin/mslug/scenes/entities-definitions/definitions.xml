@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntityDefinitions version="1.0">
+    <Definition type="Hero" class="" anchor="8,32" rectangle="0,0,16,32" image="Hero.png"/>
+    <Definition type="Soldier" class="" anchor="14,38" rectangle="0,0,28,38" image="Soldier.png"/>
+    <Definition type="Hostage" class="" anchor="18,27" rectangle="0,0,37,27" image="Hostage.png"/>
+    <Definition type="Bradley" class="" anchor="39,78" rectangle="0,0,80,78" image="Bradley.png"/>
+    <Definition type="HiddenBonus" class="" anchor="8,0" rectangle="0,0,16,16" image="HiddenBonus.png"/>
+    <Definition type="RShobu" class="" anchor="36,4" rectangle="0,0,89,66" image="RShobu.png"/>
+    <Definition type="Sarubia" class="" anchor="35,96" rectangle="0,0,72,96" image="Sarubia.png"/>
+    <Definition type="Mosque" class="" anchor="0,120" rectangle="0,0,376,120" image="Mosque.png"/>
+    <Definition type="MasknellFleet" class="" anchor="27,19" rectangle="0,0,80,63" image="Masknell.png"/>
+    <Definition type="IronNokana" class="" anchor="0,144" rectangle="0,0,176,150" image="IronNokana.png"/>
+    <Definition type="Bonus_Monkey" class="" anchor="14,28" rectangle="0,0,28,28" image="Bonus_Monkey.png"/>
+</EntityDefinitions>

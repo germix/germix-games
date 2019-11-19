@@ -1,0 +1,14 @@
+<SpriteSheet>
+	<Sprite name="explosions.hit" image="../images/explosions/explosion-hit.png" count="3" />
+	<Sprite name="explosions.16x16.v1" image="../images/explosions/explosion-16x16-v1.png" count="8" />
+	<Sprite name="explosions.16x16.v2" image="../images/explosions/explosion-16x16-v2.png" count="8" />
+	<Sprite name="explosions.32x32.v1" image="../images/explosions/explosion-32x32-v1.png" count="8" />
+	<Sprite name="explosions.32x32.v2" image="../images/explosions/explosion-32x32-v2.png" count="8" />
+	<Sprite name="explosions.64x64.v1" image="../images/explosions/explosion-64x64-v1.png" count="8" />
+	<Sprite name="explosions.hero.hit" image="../images/explosions/explosion-16x16-v2.png" count="8" />
+	<Sprite name="explosions.sidefighter.hit" image="../images/explosions/explosion-hit.png" count="3" />
+	
+	<Sprite name="scrap.1" image="../images/scrap/scrap1.png" count="8" />
+	<Sprite name="scrap.2" image="../images/scrap/scrap2.png" count="7" />
+</SpriteSheet>
+

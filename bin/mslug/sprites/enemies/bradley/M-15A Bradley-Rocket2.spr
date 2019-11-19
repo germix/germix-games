@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite anchor="" frames="19" image="M-15A Bradley-Rocket2.png" name="Bradley-Rocket-2" version="1.0">
+  <Frame anchor="8,8"/>
+  <Frame anchor="9,8"/>
+  <Frame anchor="10,7"/>
+  <Frame anchor="10,5"/>
+  <Frame anchor="11,4"/>
+  <Frame anchor="12,4"/>
+  <Frame anchor="11,6"/>
+  <Frame anchor="10,10"/>
+  <Frame anchor="10,13"/>
+  <Frame anchor="11,19"/>
+  <Frame anchor="9,25"/>
+  <Frame anchor="9,27"/>
+  <Frame anchor="8,29"/>
+  <Frame anchor="8,32"/>
+  <Frame anchor="7,33"/>
+  <Frame anchor="5,36"/>
+  <Frame anchor="4,38"/>
+  <Frame anchor="4,37"/>
+  <Frame anchor="7,38"/>
+</Sprite>

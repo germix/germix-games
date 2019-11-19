@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet version="1.2" image="CobraBullet.png">
+    <ImageList>
+        <Image anchor="8,4" rectangle="0,0,16,8"/>
+        <Image anchor="8,4" rectangle="16,0,16,8"/>
+    </ImageList>
+    <SpriteList>
+        <Sprite name="Idle" indexes="0,1"/>
+    </SpriteList>
+</SpriteSheet>

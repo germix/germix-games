@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprite image="R-Shobu (Bomb-Smoke).png" name="R-Shobu (Bomb-Smoke)" version="1.1">
+  <FrameList frames="8">
+    <Frame anchor="11,13" rectangle="0,0,23,13"/>
+    <Frame anchor="13,13" rectangle="0,13,25,18"/>
+    <Frame anchor="14,13" rectangle="0,31,27,22"/>
+    <Frame anchor="15,13" rectangle="27,0,29,25"/>
+    <Frame anchor="15,13" rectangle="27,25,30,28"/>
+    <Frame anchor="16,13" rectangle="57,0,32,29"/>
+    <Frame anchor="16,13" rectangle="57,29,32,30"/>
+    <Frame anchor="15,13" rectangle="0,53,31,30"/>
+  </FrameList>
+</Sprite>
